@@ -16,6 +16,19 @@ api = tweepy.API(auth)
 trump_tweets = api.search('Trump')
 home_timeline = api.home_timeline(count=1)
 
+output_file = open("results.txt", "w")
+
 for tweet in home_timeline:
-    print(tweet)
-    # TODO: print this into a file, inserting newlines after each piece of data on the tweet
+    output_file.write(tweet.id_str)
+    output_file.write("\n")
+    output_file.write(tweet.user.name)
+    output_file.write("\n")
+    output_file.write(tweet.text)
+    output_file.write("\n")
+    output_file.write(tweet.source)
+    output_file.write("\n")
+    output_file.write(tweet.source_url)
+    output_file.write("\n")
+    # output_file.write(tweet.created_at)
+
+output_file.close()
