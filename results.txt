@@ -1,137 +1,905 @@
-User Name: Jay Batzner
-User Handle: @jaybatzner
-Text: RT @AhirShah: Get you a fascist who can do both https://t.co/BqJKbUdeb9
-User Friends: 3412
------------------------------------------------------
-User Name: The Verge
-User Handle: @verge
-Text: What’s in your bag, Loren Grush? https://t.co/1nu86opjR6 https://t.co/pA2AAV36IU
-User Friends: 150
------------------------------------------------------
-User Name: wayback_exe
-User Handle: @wayback_exe
-Text: Search
-Oct 1996
-https://t.co/CvXLikVEQo
-https://t.co/7CMyj2fxoS https://t.co/UcZQMJ8eUQ
-User Friends: 1
------------------------------------------------------
-User Name: PC Gamer
-User Handle: @pcgamer
-Text: Explore impact of war on civilians in Arma 3's latest DLC. https://t.co/n3Y43U0IE6 https://t.co/HqMA0HNzXW
-User Friends: 74
------------------------------------------------------
-User Name: Jay Batzner
-User Handle: @jaybatzner
-Text: RT @mfrost11: Phillip? Is that you? https://t.co/WgHQZeHDej
-User Friends: 3412
------------------------------------------------------
-User Name: pugsbot
-User Handle: @pugs_bot
-Text: https://t.co/ckhnhexBtE
-User Friends: 4
------------------------------------------------------
-User Name: GameSpot
-User Handle: @gamespot
-Text: Watch #DestinysChildren @lucyjamesgames, @tamoorh and @IrregularDave start their new adventure in #Destiny2… https://t.co/7ht82nHctH
-User Friends: 544
------------------------------------------------------
-User Name: Pitchfork
-User Handle: @pitchfork
-Text: .@CGainsbourg’s first album in 7 years is called Rest—listen to the title track, produced by Daft Punk’s Guy-Manuel… https://t.co/SKX99LYsMk
-User Friends: 3734
------------------------------------------------------
-User Name: Adi Robertson
-User Handle: @thedextriarchy
-Text: also the real pressing games journalism question right now is how long until i start getting shaders in destiny for christ’s sake
-User Friends: 679
------------------------------------------------------
-User Name: TechCrunch
-User Handle: @TechCrunch
-Text: Here comes the class action lawsuit after Equifax’s massive hack https://t.co/xodXWF60ax by @romaindillet
-User Friends: 952
------------------------------------------------------
-User Name: Tone Deaf Comics
-User Handle: @tonedeafcomics
-Text: This comic I drew 4 years ago seems even more evident now that my oldest son is playing timpani… https://t.co/ZZGQKItcc9
-User Friends: 115
------------------------------------------------------
-User Name: IGN
-User Handle: @IGN
-Text: Here’s how to start Heroic Events in Destiny 2. Presented by @PlayStationEU. https://t.co/bRMqkCv5OU
-User Friends: 800
------------------------------------------------------
-User Name: GameSpot
-User Handle: @gamespot
-Text: #Giveaway: Enter for a chance to win Destiny 2 Collector's Edition (PS4). Winners picked Sunday!
-👉… https://t.co/zpg7xbyRji
-User Friends: 544
------------------------------------------------------
-User Name: SiriusXM
-User Handle: @SIRIUSXM
-Text: RT @TheJennyMShow: We're live on @SIRIUSXM Stars 109! Tune in and join the party! https://t.co/5ZrIka7HL7
-User Friends: 8502
------------------------------------------------------
-User Name: Pitchfork
-User Handle: @pitchfork
-Text: Check out @SZA’s new song “Quicksand,” from the @InsecureHBO soundtrack https://t.co/Xvy7ut0onf https://t.co/H5B5sHLfW3
-User Friends: 3734
------------------------------------------------------
-User Name: Sam Sheffer
-User Handle: @samsheffer
-Text: Canada &gt; USA
+Created At: 2017-09-08 20:56:24
+ID: 906259952498606080
+Text: Elon Musk shares another photo of SpaceX’s future space suits https://t.co/ZtlrwBw9HQ https://t.co/t0FHWU74Ty
+Truncated: False
 
-...
+Source App: IFTTT
+Source App URL: https://ifttt.com
 
-..
 
-.....
+User ID: 1327886654
+User Name: Verge Science
+User Handle: @VergeScience
+User Location: 
+User Description: The Twitter account of The Verge Science. Brought to you by @mslopatto and @lorengrush. 
+Get in touch: science@theverge.com
+User Website: https://t.co/akALOH2pZr
+User Protected?: False
+User Followers: 39290
+User Friends: 198
+User Listed Count: 1350
+User Created At: 2013-04-04 21:54:20
+User Favorites: 602
+User UTC Offset: -10800
+User Timezone: Atlantic Time (Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 6331
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: True
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+-----------------------------------------------------
+Created At: 2017-09-08 20:56:04
+ID: 906259868113297408
+Text: National News Highlights https://t.co/7grMVg3DE9
+Truncated: False
 
-*has been in Canada for 5 days*
-User Friends: 421
------------------------------------------------------
-User Name: IGN
-User Handle: @IGN
-Text: Learn how three people overcame the odds to create #RocketLeague - one of the world's biggest esports!
+Source App: Media Studio
+Source App URL: https://studio.twitter.com
 
-WATCH:… https://t.co/y23mB7LvFW
-User Friends: 800
------------------------------------------------------
-User Name: Circuit Breaker
-User Handle: @circuitbreaker
-Text: Bundling the $1,000 iPhone with free Apple Music and iCloud storage would be genius https://t.co/nH8HLLXXWd https://t.co/LwBWpB1Jrz
-User Friends: 11
------------------------------------------------------
-User Name: John Hill
-User Handle: @johnhilltube
-Text: Daily conversations at:
 
-https://t.co/gRgInjK396 https://t.co/tUxmwkHhB5
-User Friends: 184
+User ID: 14075928
+User Name: The Onion
+User Handle: @TheOnion
+User Location: 
+User Description: America's Finest News Source.
+User Website: https://t.co/yrcmIUsgtR
+User Protected?: False
+User Followers: 10312297
+User Friends: 13
+User Listed Count: 74299
+User Created At: 2008-03-04 02:48:37
+User Favorites: 1
+User UTC Offset: -18000
+User Timezone: Central Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 54008
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: True
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
 -----------------------------------------------------
-User Name: Tony
-User Handle: @CMUAckbar
-Text: I analyze my professors as much as I analyze the material they present. It makes class fun.
-User Friends: 361
+Created At: 2017-09-08 20:55:59
+ID: 906259845430493184
+Text: 52 days till Halloween 🎃🖤🎃🖤🎃🖤🎃
+Truncated: False
+
+Source App: Twitter for iPhone
+Source App URL: http://twitter.com/download/iphone
+
+
+User ID: 18643769
+User Name: 🖤Mortemer🖤
+User Handle: @Mort3mer
+User Location: Los Angeles 
+User Description: I am Suzy Berhow. I am very powerful and feared by many. You can find me here- https://t.co/7Xk4xT1xDK ♥️♥️♥️
+User Website: https://t.co/jsFyUjGpyF
+User Protected?: False
+User Followers: 286085
+User Friends: 272
+User Listed Count: 395
+User Created At: 2009-01-05 20:10:47
+User Favorites: 36825
+User UTC Offset: -18000
+User Timezone: Central Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 20523
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
 -----------------------------------------------------
-User Name: Mashable
-User Handle: @mashable
-Text: British man creates a real-life 'Iron Man' flight suit https://t.co/aF5ASVOome
-User Friends: 2834
+Created At: 2017-09-08 20:55:34
+ID: 906259739805405184
+Text: It's about time we make health care a right. Join me and my Senate co-sponsors as we introduce Medicare for All.
+https://t.co/IgCOABNpuH
+Truncated: False
+
+Source App: Twitter Web Client
+Source App URL: http://twitter.com
+
+
+User ID: 29442313
+User Name: Bernie Sanders
+User Handle: @SenSanders
+User Location: Vermont/DC
+User Description: Sen. Bernie Sanders is the longest serving independent in congressional history. Tweets ending in -B are from Bernie, and all others are from a staffer.
+User Website: http://t.co/8AS4FI1oge
+User Protected?: False
+User Followers: 6135887
+User Friends: 2022
+User Listed Count: 22413
+User Created At: 2009-04-07 13:02:35
+User Favorites: 27
+User UTC Offset: -14400
+User Timezone: Eastern Time (US & Canada)
+User Geo Enabled?: True
+User Verified?: True
+User Tweets Count: 17197
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
 -----------------------------------------------------
+Created At: 2017-09-08 20:55:33
+ID: 906259735787143168
+Text: 🎃🎃🎃Halloween is lyfe🎃🎃🎃
+Truncated: False
+
+Source App: Twitter for iPhone
+Source App URL: http://twitter.com/download/iphone
+
+
+User ID: 18643769
+User Name: 🖤Mortemer🖤
+User Handle: @Mort3mer
+User Location: Los Angeles 
+User Description: I am Suzy Berhow. I am very powerful and feared by many. You can find me here- https://t.co/7Xk4xT1xDK ♥️♥️♥️
+User Website: https://t.co/jsFyUjGpyF
+User Protected?: False
+User Followers: 286085
+User Friends: 272
+User Listed Count: 395
+User Created At: 2009-01-05 20:10:47
+User Favorites: 36825
+User UTC Offset: -18000
+User Timezone: Central Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 20523
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+-----------------------------------------------------
+Created At: 2017-09-08 20:53:27
+ID: 906259207275503616
+Text: RT @seasonaIvibes: everyone: sucks that summer is ending 
+
+me: https://t.co/MAecdmhSYt
+Truncated: False
+
+Source App: Twitter for iPhone
+Source App URL: http://twitter.com/download/iphone
+
+
+User ID: 18643769
+User Name: 🖤Mortemer🖤
+User Handle: @Mort3mer
+User Location: Los Angeles 
+User Description: I am Suzy Berhow. I am very powerful and feared by many. You can find me here- https://t.co/7Xk4xT1xDK ♥️♥️♥️
+User Website: https://t.co/jsFyUjGpyF
+User Protected?: False
+User Followers: 286085
+User Friends: 272
+User Listed Count: 395
+User Created At: 2009-01-05 20:10:47
+User Favorites: 36825
+User UTC Offset: -18000
+User Timezone: Central Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 20523
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+-----------------------------------------------------
+Created At: 2017-09-08 20:52:23
+ID: 906258940077367296
+Text: I Put A Spell On You - Hocus Pocus (No Dialouge) 🎃🖤🎃🖤🎃 https://t.co/PKitu6TnKj
+Truncated: False
+
+Source App: Twitter for iPhone
+Source App URL: http://twitter.com/download/iphone
+
+
+User ID: 18643769
+User Name: 🖤Mortemer🖤
+User Handle: @Mort3mer
+User Location: Los Angeles 
+User Description: I am Suzy Berhow. I am very powerful and feared by many. You can find me here- https://t.co/7Xk4xT1xDK ♥️♥️♥️
+User Website: https://t.co/jsFyUjGpyF
+User Protected?: False
+User Followers: 286085
+User Friends: 272
+User Listed Count: 395
+User Created At: 2009-01-05 20:10:47
+User Favorites: 36825
+User UTC Offset: -18000
+User Timezone: Central Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 20523
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+-----------------------------------------------------
+Created At: 2017-09-08 20:50:33
+ID: 906258480331243520
+Text: The Duopoly offers you "entertainment" bundles that nobody wants. We're just over here giving customers… https://t.co/vgU51PRyuQ
+Truncated: True
+
+Source App: Twitter Web Client
+Source App URL: http://twitter.com
+
+
+User ID: 1394399438
+User Name: John Legere
+User Handle: @JohnLegere
+User Location: Bellevue,WA/New York City
+User Description: Magenta-wearing, customer-loving @TMobile USA CEO focused on ending wireless pain points & scaring our competitors! Also, #IamBatman
+User Website: https://t.co/HVTpkeRnYz
+User Protected?: False
+User Followers: 4507013
+User Friends: 269
+User Listed Count: 4460
+User Created At: 2013-05-01 11:13:13
+User Favorites: 88905
+User UTC Offset: -25200
+User Timezone: Pacific Time (US & Canada)
+User Geo Enabled?: True
+User Verified?: True
+User Tweets Count: 32818
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+-----------------------------------------------------
+Created At: 2017-09-08 20:49:55
+ID: 906258318737510400
+Text: RT @lncestPrincess: WHAT THE HELL HAPPENED TO THE YOU KNOW I HAD TO DO IT TO EM KID https://t.co/PNZAeJ0Yud
+Truncated: False
+
+Source App: Twitter for iPhone
+Source App URL: http://twitter.com/download/iphone
+
+
+User ID: 322842111
+User Name: Christine Sydelko
+User Handle: @csydelko
+User Location: Los Angeles, CA
+User Description: BUSINESS: ElijahAndChristineBusiness@gmail.com
+User Website: https://t.co/UZV2GeRcOQ
+User Protected?: False
+User Followers: 765325
+User Friends: 817
+User Listed Count: 926
+User Created At: 2011-06-23 20:48:53
+User Favorites: 35810
+User UTC Offset: -18000
+User Timezone: Central Time (US & Canada)
+User Geo Enabled?: True
+User Verified?: True
+User Tweets Count: 17264
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+-----------------------------------------------------
+Created At: 2017-09-08 20:48:16
+ID: 906257905229471744
+Text: A ‘skunkworks’ team is working quietly behind the scenes to revamp Honda. @Reuters investigates… https://t.co/n7dLr9I2Sy
+Truncated: True
+
+Source App: SocialFlow
+Source App URL: http://www.socialflow.com
+
+
+User ID: 25562270
 User Name: Reuters Tech News
 User Handle: @ReutersTech
-Text: U.S. seeks to jail Shkreli, citing 'pattern of threats' https://t.co/wjBmtYzQZN https://t.co/38JAxfBgcv
+User Location: The Internet
+User Description: Technology news from Reuters.
+User Website: http://t.co/z7IbXwr0TR
+User Protected?: False
+User Followers: 168142
 User Friends: 398
+User Listed Count: 5156
+User Created At: 2009-03-20 19:44:09
+User Favorites: 12
+User UTC Offset: -18000
+User Timezone: Quito
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 46711
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
 -----------------------------------------------------
-User Name: Adi Robertson
-User Handle: @thedextriarchy
-Text: Tl;dr I want different things from an FGC commentator, a horror game streamer, and an indie arts critic, and none of them are just “git gud"
-User Friends: 679
------------------------------------------------------
+Created At: 2017-09-08 20:48:06
+ID: 906257860576722944
+Text: Indulge yourself in all things chocolate in this museum in NYC https://t.co/XjHkeGXGqE
+Truncated: False
+
+Source App: Media Studio
+Source App URL: https://studio.twitter.com
+
+
+User ID: 972651
 User Name: Mashable
 User Handle: @mashable
-Text: Stephen Colbert's 'Late Show' has achieved digital dominance by being topical, timely and Trumpy
-https://t.co/jfreLYbTDN
-User Friends: 2834
+User Location: 
+User Description: Mashable is for superfans. We're not for the casually curious. Obsess with us.
+User Website: http://t.co/1Gm8aVACKn
+User Protected?: False
+User Followers: 9280677
+User Friends: 2835
+User Listed Count: 129209
+User Created At: 2007-03-12 01:28:01
+User Favorites: 701
+User UTC Offset: -14400
+User Timezone: Eastern Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 251470
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+-----------------------------------------------------
+Created At: 2017-09-08 20:43:50
+ID: 906256789158625286
+Text: Elon Musk shares another photo of SpaceX’s future space suits https://t.co/8vNK0QzpBt https://t.co/6JuzKFdZNs
+Truncated: False
+
+Source App: Vox Media
+Source App URL: http://www.voxmedia.com
+
+
+User ID: 275686563
+User Name: The Verge
+User Handle: @verge
+User Location: New York
+User Description: https://t.co/W2SFxIXkC4 covers life in the future.
+User Website: http://t.co/W2SFxIXkC4
+User Protected?: False
+User Followers: 2170652
+User Friends: 150
+User Listed Count: 33532
+User Created At: 2011-04-01 19:54:22
+User Favorites: 1747
+User UTC Offset: -14400
+User Timezone: Eastern Time (US & Canada)
+User Geo Enabled?: True
+User Verified?: True
+User Tweets Count: 127228
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: True
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: regular
+-----------------------------------------------------
+Created At: 2017-09-08 20:43:41
+ID: 906256748939530240
+Text: YAAAAS! https://t.co/CelBbujWAL
+Truncated: False
+
+Source App: Twitter Web Client
+Source App URL: http://twitter.com
+
+
+User ID: 20728459
+User Name: Kwame Opam
+User Handle: @kwameopam
+User Location: New York
+User Description: Digital Skills Editor, @nytimes, formerly @verge. I don't *hate* almonds, but...
+
+User Protected?: False
+User Followers: 7227
+User Friends: 1475
+User Listed Count: 314
+User Created At: 2009-02-12 22:49:34
+User Favorites: 13721
+User UTC Offset: -14400
+User Timezone: Eastern Time (US & Canada)
+User Geo Enabled?: True
+User Verified?: True
+User Tweets Count: 38164
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: True
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+-----------------------------------------------------
+Created At: 2017-09-08 20:41:04
+ID: 906256090592980992
+Text: Nike officially announces the LeBron 15. No official pricing or release date. Max Air x Zoom Air and next-generatio… https://t.co/VcccB7oBFx
+Truncated: True
+
+Source App: TweetDeck
+Source App URL: https://about.twitter.com/products/tweetdeck
+
+
+User ID: 7098702
+User Name: Jacques Slade
+User Handle: @kustoo
+User Location: Los Angeles, CA
+User Description: I make videos, play sports, and wear sneakers...a lot. Co-Host of NBC's @TheCycleLive. These views are my own.
+User Website: https://t.co/86U2jQekUN
+User Protected?: False
+User Followers: 33219
+User Friends: 1797
+User Listed Count: 263
+User Created At: 2007-06-27 01:08:22
+User Favorites: 27373
+User UTC Offset: -25200
+User Timezone: America/Los_Angeles
+User Geo Enabled?: True
+User Verified?: True
+User Tweets Count: 47256
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+-----------------------------------------------------
+Created At: 2017-09-08 20:40:06
+ID: 906255849143894016
+Text: ASRock's X299 OC Formula motherboard is ready for extreme overclocking https://t.co/ISPjuSTHe3 https://t.co/oo7SNc73ja
+Truncated: False
+
+Source App: Buffer
+Source App URL: http://bufferapp.com
+
+
+User ID: 16736535
+User Name: PC Gamer
+User Handle: @pcgamer
+User Location: San Francisco, Bath & Sydney
+User Description: The global authority on PC games. Tweets from our US, UK, and AU editors.
+User Website: https://t.co/C4FGsPK7FD
+User Protected?: False
+User Followers: 1911129
+User Friends: 74
+User Listed Count: 4895
+User Created At: 2008-10-14 11:19:09
+User Favorites: 551
+User UTC Offset: -25200
+User Timezone: Pacific Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 38239
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: regular
+-----------------------------------------------------
+Created At: 2017-09-08 20:38:37
+ID: 906255477264314369
+Text: RT @bad_robot: We’ve started printing with discharge ink which results in a super soft feel. RT for a chance to win a shirt made at the Bad…
+Truncated: False
+
+Source App: Twitter for iPhone
+Source App URL: http://twitter.com/download/iphone
+
+
+User ID: 25246881
+User Name: Sam Sheffer
+User Handle: @samsheffer
+User Location: East Village, NYC
+User Description: Independent Content Creator | Worked in tech media for 8 years between @engadget, @verge, and @mashable ///// username is @samsheffer everywhere
+User Website: https://t.co/G5saehlCoN
+User Protected?: False
+User Followers: 26993
+User Friends: 423
+User Listed Count: 742
+User Created At: 2009-03-19 05:52:27
+User Favorites: 103753
+User UTC Offset: -14400
+User Timezone: Eastern Time (US & Canada)
+User Geo Enabled?: True
+User Verified?: True
+User Tweets Count: 65699
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: True
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+-----------------------------------------------------
+Created At: 2017-09-08 20:38:37
+ID: 906255475699847169
+Text: RT @kumailn: If only we had some sort of sign that climate change was real.
+Truncated: False
+
+Source App: Twitter for iPhone
+Source App URL: http://twitter.com/download/iphone
+
+
+User ID: 904957843
+User Name: Garrett Prost
+User Handle: @garrett_prost
+User Location: Ann Arbor, MI
+User Description: CPR certified / umich '18
+
+User Protected?: False
+User Followers: 220
+User Friends: 225
+User Listed Count: 2
+User Created At: 2012-10-26 00:15:58
+User Favorites: 14124
+User UTC Offset: None
+
+User Geo Enabled?: True
+User Verified?: True
+User Tweets Count: 5386
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: True
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+-----------------------------------------------------
+Created At: 2017-09-08 20:37:16
+ID: 906255137747869697
+Text: if this gets 10K RTs, we will post an EXCLUSIVE pic of @matthwatson's butt
+Truncated: False
+
+Source App: Twitter for iPhone
+Source App URL: http://twitter.com/download/iphone
+
+
+User ID: 701983068
+User Name: Game Grumps
+User Handle: @GameGrumps
+User Location: 
+User Description: We play video games. You like video games. Cool, right?
+User Website: http://t.co/9kkRj26QiB
+User Protected?: False
+User Followers: 1637368
+User Friends: 204
+User Listed Count: 1092
+User Created At: 2012-07-17 23:39:12
+User Favorites: 837
+User UTC Offset: -25200
+User Timezone: Pacific Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 8731
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: True
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+-----------------------------------------------------
+Created At: 2017-09-08 20:37:02
+ID: 906255076951515136
+Text: King Krule’s new album is titled The Ooz, and it’s out next month https://t.co/dlWBcQ0tFg
+Truncated: False
+
+Source App: SocialFlow
+Source App URL: http://www.socialflow.com
+
+
+User ID: 14089195
+User Name: Pitchfork
+User Handle: @pitchfork
+User Location: Chicago/NYC
+User Description: The most trusted voice in music.
+User Website: https://t.co/vn4d8VhqAu
+User Protected?: False
+User Followers: 3446074
+User Friends: 3734
+User Listed Count: 33723
+User Created At: 2008-03-06 15:34:41
+User Favorites: 74
+User UTC Offset: -14400
+User Timezone: Eastern Time (US & Canada)
+User Geo Enabled?: True
+User Verified?: True
+User Tweets Count: 72443
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: True
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+-----------------------------------------------------
+Created At: 2017-09-08 20:36:49
+ID: 906255023163584512
+Text: RT @MrGeorgeWallace: Shout out to Florida. Y'all got enough crazy shit happenin' on the regular without havin' to deal with Irma and so for…
+Truncated: False
+
+Source App: Twitter for iPhone
+Source App URL: http://twitter.com/download/iphone
+
+
+User ID: 28644174
+User Name: B.J. Novak
+User Handle: @bjnovak
+User Location: 
+User Description: 
+
+User Protected?: False
+User Followers: 1122173
+User Friends: 875
+User Listed Count: 5223
+User Created At: 2009-04-03 20:21:41
+User Favorites: 21645
+User UTC Offset: -21600
+User Timezone: Mountain Time (US & Canada)
+User Geo Enabled?: True
+User Verified?: True
+User Tweets Count: 7695
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: True
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+-----------------------------------------------------
+Created At: 2017-09-08 20:34:51
+ID: 906254528365948928
+Text: RT @CMU_Wesley: Interested in playing or singing in a worship band? Favorite this tweet! The Wesley Band would love to have you! https://t.…
+Truncated: False
+
+Source App: Twitter Web Client
+Source App URL: http://twitter.com
+
+
+User ID: 238653225
+User Name: Sean Griffin
+User Handle: @TheSeanGriffin
+User Location: Boston, MA
+User Description: Guitar-Picker | Cubs/Bears | Hardcore Methodist | Marvel and Star Wars | Ally to #BlackLivesMatter #LGBTQ #Feminism | CMU '16 | Boston University STH|
+User Website: https://t.co/ZN728W04eJ
+User Protected?: False
+User Followers: 370
+User Friends: 475
+User Listed Count: 10
+User Created At: 2011-01-15 18:03:29
+User Favorites: 17441
+User UTC Offset: -14400
+User Timezone: Eastern Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 13476
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+-----------------------------------------------------
+Created At: 2017-09-08 20:33:58
+ID: 906254305845403648
+Text: RT @Fanfiber: Welcome to Fanfiber @ninjasexparty ✌️
+👉 https://t.co/8yv35Gpgbv https://t.co/DJQttDNncp
+Truncated: False
+
+Source App: Twitter for iPhone
+Source App URL: http://twitter.com/download/iphone
+
+
+User ID: 18643769
+User Name: 🖤Mortemer🖤
+User Handle: @Mort3mer
+User Location: Los Angeles 
+User Description: I am Suzy Berhow. I am very powerful and feared by many. You can find me here- https://t.co/7Xk4xT1xDK ♥️♥️♥️
+User Website: https://t.co/jsFyUjGpyF
+User Protected?: False
+User Followers: 286085
+User Friends: 272
+User Listed Count: 395
+User Created At: 2009-01-05 20:10:47
+User Favorites: 36825
+User UTC Offset: -18000
+User Timezone: Central Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 20523
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+-----------------------------------------------------
+Created At: 2017-09-08 20:32:22
+ID: 906253903544565760
+Text: RT @JohnMarkowitz: Damn this lunch looks good https://t.co/LrPeLdzSXa
+Truncated: False
+
+Source App: Twitter for iPhone
+Source App URL: http://twitter.com/download/iphone
+
+
+User ID: 502135911
+User Name: Nick Offerman
+User Handle: @Nick_Offerman
+User Location: California
+User Description: CITIZEN........@NickOfferman on insta 🇺🇸🐷
+User Website: https://t.co/SFYJWLLpkE
+User Protected?: False
+User Followers: 1469836
+User Friends: 86
+User Listed Count: 5537
+User Created At: 2012-02-24 21:04:27
+User Favorites: 76
+User UTC Offset: None
+
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 4621
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+-----------------------------------------------------
+Created At: 2017-09-08 20:32:15
+ID: 906253873865744384
+Text: Catch up on the week's latest tracks → https://t.co/DGsqV1njGY https://t.co/NZTl7ipZxZ
+Truncated: False
+
+Source App: SocialFlow
+Source App URL: http://www.socialflow.com
+
+
+User ID: 14089195
+User Name: Pitchfork
+User Handle: @pitchfork
+User Location: Chicago/NYC
+User Description: The most trusted voice in music.
+User Website: https://t.co/vn4d8VhqAu
+User Protected?: False
+User Followers: 3446074
+User Friends: 3734
+User Listed Count: 33723
+User Created At: 2008-03-06 15:34:41
+User Favorites: 74
+User UTC Offset: -14400
+User Timezone: Eastern Time (US & Canada)
+User Geo Enabled?: True
+User Verified?: True
+User Tweets Count: 72443
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: True
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+-----------------------------------------------------
+Created At: 2017-09-08 20:32:12
+ID: 906253860599156737
+Text: Final Fantasy XV's director wants you to know he can't find a Switch https://t.co/En4ak47Q4n https://t.co/r6eF8Y8JTK
+Truncated: False
+
+Source App: SocialFlow
+Source App URL: http://www.socialflow.com
+
+
+User ID: 11928542
+User Name: Kotaku
+User Handle: @Kotaku
+User Location: 
+User Description: The Gamer's Guide
+User Website: http://t.co/OD5OpBJUMH
+User Protected?: False
+User Followers: 1989539
+User Friends: 57
+User Listed Count: 12664
+User Created At: 2008-01-07 04:09:59
+User Favorites: 40
+User UTC Offset: -21600
+User Timezone: Mountain Time (US & Canada)
+User Geo Enabled?: True
+User Verified?: True
+User Tweets Count: 61762
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
 -----------------------------------------------------
