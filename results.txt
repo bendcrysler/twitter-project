@@ -1,156 +1,106 @@
-Created At: 2017-09-08 20:56:24
-ID: 906259952498606080
-Text: Elon Musk shares another photo of SpaceX’s future space suits https://t.co/ZtlrwBw9HQ https://t.co/t0FHWU74Ty
-Truncated: False
+Tweet Created At: 2017-09-13 19:54:04
+Tweet ID: 908056204953387010
+Tweet Text: Worth watching @EspeSpalding, ma ancienne colleague de @BerkleeCollege, if you're curious about the production and… https://t.co/Uz7DlQaqne
+Tweet Truncated?: True
 
-Source App: IFTTT
-Source App URL: https://ifttt.com
+Tweet Source App: Twitter Web Client
+Tweet Source App URL: http://twitter.com
 
 
-User ID: 1327886654
-User Name: Verge Science
-User Handle: @VergeScience
-User Location: 
-User Description: The Twitter account of The Verge Science. Brought to you by @mslopatto and @lorengrush. 
-Get in touch: science@theverge.com
-User Website: https://t.co/akALOH2pZr
+User ID: 25984796
+User Name: Aaron Saloman
+User Handle: @aaronsaloman
+User Location: Montréal, QC, Canada
+User Description: I run a music & audio studio. You have heard my music during your television-watching. I have produced some records for people & done music for some video games
+User Website: http://t.co/Rx6FBO4RQo
 User Protected?: False
-User Followers: 39290
-User Friends: 198
-User Listed Count: 1350
-User Created At: 2013-04-04 21:54:20
-User Favorites: 602
-User UTC Offset: -10800
-User Timezone: Atlantic Time (Canada)
-User Geo Enabled?: False
-User Verified?: False
-User Tweets Count: 6331
-User Language: en
-User Contributors Enabled?: False
-User Translator?: False
-User Translation Enabled?: False
-User Has Extended Profile?: False
-User Has Default Profile?: True
-User Has Default Avatar?: False
-User Followed By Developer?: True
-User Translator Type: none
------------------------------------------------------
-Created At: 2017-09-08 20:56:04
-ID: 906259868113297408
-Text: National News Highlights https://t.co/7grMVg3DE9
-Truncated: False
+User Followers: 696
+User Friends: 2106
+User Listed Count: 36
+User Created At: 2009-03-23 11:24:48
+User Favorites: 395
+User UTC Offset: None
 
-Source App: Media Studio
-Source App URL: https://studio.twitter.com
-
-
-User ID: 14075928
-User Name: The Onion
-User Handle: @TheOnion
-User Location: 
-User Description: America's Finest News Source.
-User Website: https://t.co/yrcmIUsgtR
-User Protected?: False
-User Followers: 10312297
-User Friends: 13
-User Listed Count: 74299
-User Created At: 2008-03-04 02:48:37
-User Favorites: 1
-User UTC Offset: -18000
-User Timezone: Central Time (US & Canada)
-User Geo Enabled?: False
-User Verified?: False
-User Tweets Count: 54008
-User Language: en
-User Contributors Enabled?: False
-User Translator?: False
-User Translation Enabled?: True
-User Has Extended Profile?: False
-User Has Default Profile?: False
-User Has Default Avatar?: False
-User Followed By Developer?: True
-User Translator Type: none
------------------------------------------------------
-Created At: 2017-09-08 20:55:59
-ID: 906259845430493184
-Text: 52 days till Halloween 🎃🖤🎃🖤🎃🖤🎃
-Truncated: False
-
-Source App: Twitter for iPhone
-Source App URL: http://twitter.com/download/iphone
-
-
-User ID: 18643769
-User Name: 🖤Mortemer🖤
-User Handle: @Mort3mer
-User Location: Los Angeles 
-User Description: I am Suzy Berhow. I am very powerful and feared by many. You can find me here- https://t.co/7Xk4xT1xDK ♥️♥️♥️
-User Website: https://t.co/jsFyUjGpyF
-User Protected?: False
-User Followers: 286085
-User Friends: 272
-User Listed Count: 395
-User Created At: 2009-01-05 20:10:47
-User Favorites: 36825
-User UTC Offset: -18000
-User Timezone: Central Time (US & Canada)
-User Geo Enabled?: False
-User Verified?: False
-User Tweets Count: 20523
-User Language: en
-User Contributors Enabled?: False
-User Translator?: False
-User Translation Enabled?: False
-User Has Extended Profile?: True
-User Has Default Profile?: False
-User Has Default Avatar?: False
-User Followed By Developer?: True
-User Translator Type: none
------------------------------------------------------
-Created At: 2017-09-08 20:55:34
-ID: 906259739805405184
-Text: It's about time we make health care a right. Join me and my Senate co-sponsors as we introduce Medicare for All.
-https://t.co/IgCOABNpuH
-Truncated: False
-
-Source App: Twitter Web Client
-Source App URL: http://twitter.com
-
-
-User ID: 29442313
-User Name: Bernie Sanders
-User Handle: @SenSanders
-User Location: Vermont/DC
-User Description: Sen. Bernie Sanders is the longest serving independent in congressional history. Tweets ending in -B are from Bernie, and all others are from a staffer.
-User Website: http://t.co/8AS4FI1oge
-User Protected?: False
-User Followers: 6135887
-User Friends: 2022
-User Listed Count: 22413
-User Created At: 2009-04-07 13:02:35
-User Favorites: 27
-User UTC Offset: -14400
-User Timezone: Eastern Time (US & Canada)
 User Geo Enabled?: True
 User Verified?: True
-User Tweets Count: 17197
+User Tweets Count: 6829
 User Language: en
 User Contributors Enabled?: False
 User Translator?: False
 User Translation Enabled?: False
-User Has Extended Profile?: True
+User Has Extended Profile?: False
 User Has Default Profile?: False
 User Has Default Avatar?: False
 User Followed By Developer?: True
 User Translator Type: none
------------------------------------------------------
-Created At: 2017-09-08 20:55:33
-ID: 906259735787143168
-Text: 🎃🎃🎃Halloween is lyfe🎃🎃🎃
-Truncated: False
 
-Source App: Twitter for iPhone
-Source App URL: http://twitter.com/download/iphone
+
+
+
+
+Quoted Status?: True
+Quoted Status ID: 907643361720377344
+Tweet Retweets: 0
+Tweet Favorites: 0
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:52:37
+Tweet ID: 908055836907462656
+Tweet Text: Meet my new startup CAT™ which is dedicated to replacing your pets with robots that will definitely be cuter; bet you can’t prove me wrong.
+Tweet Truncated?: False
+
+Tweet Source App: TweetDeck
+Tweet Source App URL: https://about.twitter.com/products/tweetdeck
+In Reply to Tweet ID: 908053738836946944
+In Reply to User ID: 90142504
+User ID: 90142504
+User Name: Adi Robertson
+User Handle: @thedextriarchy
+User Location: NYC
+User Description: Procrastinating on the future, senior reporter for The Verge.
+User Website: http://t.co/74dcgF1InZ
+User Protected?: False
+User Followers: 9398
+User Friends: 678
+User Listed Count: 472
+User Created At: 2009-11-15 11:09:03
+User Favorites: 2218
+User UTC Offset: -14400
+User Timezone: Eastern Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 14722
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+
+
+
+
+
+Quoted Status?: False
+
+Tweet Retweets: 0
+Tweet Favorites: 1
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:51:56
+Tweet ID: 908055668153712640
+Tweet Text: Otto won't let me get any work done 😅 https://t.co/HhvzCbHiJa
+Tweet Truncated?: False
+
+Tweet Source App: Twitter for iPhone
+Tweet Source App URL: http://twitter.com/download/iphone
 
 
 User ID: 18643769
@@ -160,16 +110,16 @@ User Location: Los Angeles
 User Description: I am Suzy Berhow. I am very powerful and feared by many. You can find me here- https://t.co/7Xk4xT1xDK ♥️♥️♥️
 User Website: https://t.co/jsFyUjGpyF
 User Protected?: False
-User Followers: 286085
-User Friends: 272
-User Listed Count: 395
+User Followers: 286787
+User Friends: 274
+User Listed Count: 400
 User Created At: 2009-01-05 20:10:47
-User Favorites: 36825
+User Favorites: 36956
 User UTC Offset: -18000
 User Timezone: Central Time (US & Canada)
 User Geo Enabled?: False
 User Verified?: False
-User Tweets Count: 20523
+User Tweets Count: 20578
 User Language: en
 User Contributors Enabled?: False
 User Translator?: False
@@ -179,107 +129,45 @@ User Has Default Profile?: False
 User Has Default Avatar?: False
 User Followed By Developer?: True
 User Translator Type: none
+
+
+
+
+
+Quoted Status?: False
+
+Tweet Retweets: 19
+Tweet Favorites: 176
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
 -----------------------------------------------------
-Created At: 2017-09-08 20:53:27
-ID: 906259207275503616
-Text: RT @seasonaIvibes: everyone: sucks that summer is ending 
-
-me: https://t.co/MAecdmhSYt
-Truncated: False
-
-Source App: Twitter for iPhone
-Source App URL: http://twitter.com/download/iphone
+Tweet Created At: 2017-09-13 19:50:17
+Tweet ID: 908055253391691777
+Tweet Text: The mixed guy's #ootd. If you get this outfit in your next package, here is how to style it. #fivefourman https://t.co/vxCKvacb1S
+Tweet Truncated?: False
+Tweet Hashtags: #ootd #fivefourman 
+Tweet Source App: LaterMedia
+Tweet Source App URL: https://www.later.com
 
 
-User ID: 18643769
-User Name: 🖤Mortemer🖤
-User Handle: @Mort3mer
-User Location: Los Angeles 
-User Description: I am Suzy Berhow. I am very powerful and feared by many. You can find me here- https://t.co/7Xk4xT1xDK ♥️♥️♥️
-User Website: https://t.co/jsFyUjGpyF
+User ID: 12653342
+User Name: Five Four
+User Handle: @FiveFour
+User Location: Los Angeles, CA
+User Description: Begin your journey on the road to better style. Tag #Beyondthebox
+User Website: https://t.co/6M8ei9L6KB
 User Protected?: False
-User Followers: 286085
-User Friends: 272
-User Listed Count: 395
-User Created At: 2009-01-05 20:10:47
-User Favorites: 36825
-User UTC Offset: -18000
-User Timezone: Central Time (US & Canada)
-User Geo Enabled?: False
-User Verified?: False
-User Tweets Count: 20523
-User Language: en
-User Contributors Enabled?: False
-User Translator?: False
-User Translation Enabled?: False
-User Has Extended Profile?: True
-User Has Default Profile?: False
-User Has Default Avatar?: False
-User Followed By Developer?: True
-User Translator Type: none
------------------------------------------------------
-Created At: 2017-09-08 20:52:23
-ID: 906258940077367296
-Text: I Put A Spell On You - Hocus Pocus (No Dialouge) 🎃🖤🎃🖤🎃 https://t.co/PKitu6TnKj
-Truncated: False
-
-Source App: Twitter for iPhone
-Source App URL: http://twitter.com/download/iphone
-
-
-User ID: 18643769
-User Name: 🖤Mortemer🖤
-User Handle: @Mort3mer
-User Location: Los Angeles 
-User Description: I am Suzy Berhow. I am very powerful and feared by many. You can find me here- https://t.co/7Xk4xT1xDK ♥️♥️♥️
-User Website: https://t.co/jsFyUjGpyF
-User Protected?: False
-User Followers: 286085
-User Friends: 272
-User Listed Count: 395
-User Created At: 2009-01-05 20:10:47
-User Favorites: 36825
-User UTC Offset: -18000
-User Timezone: Central Time (US & Canada)
-User Geo Enabled?: False
-User Verified?: False
-User Tweets Count: 20523
-User Language: en
-User Contributors Enabled?: False
-User Translator?: False
-User Translation Enabled?: False
-User Has Extended Profile?: True
-User Has Default Profile?: False
-User Has Default Avatar?: False
-User Followed By Developer?: True
-User Translator Type: none
------------------------------------------------------
-Created At: 2017-09-08 20:50:33
-ID: 906258480331243520
-Text: The Duopoly offers you "entertainment" bundles that nobody wants. We're just over here giving customers… https://t.co/vgU51PRyuQ
-Truncated: True
-
-Source App: Twitter Web Client
-Source App URL: http://twitter.com
-
-
-User ID: 1394399438
-User Name: John Legere
-User Handle: @JohnLegere
-User Location: Bellevue,WA/New York City
-User Description: Magenta-wearing, customer-loving @TMobile USA CEO focused on ending wireless pain points & scaring our competitors! Also, #IamBatman
-User Website: https://t.co/HVTpkeRnYz
-User Protected?: False
-User Followers: 4507013
-User Friends: 269
-User Listed Count: 4460
-User Created At: 2013-05-01 11:13:13
-User Favorites: 88905
+User Followers: 43332
+User Friends: 289
+User Listed Count: 193
+User Created At: 2008-01-24 19:32:42
+User Favorites: 5143
 User UTC Offset: -25200
 User Timezone: Pacific Time (US & Canada)
 User Geo Enabled?: True
 User Verified?: True
-User Tweets Count: 32818
+User Tweets Count: 17680
 User Language: en
 User Contributors Enabled?: False
 User Translator?: False
@@ -289,230 +177,122 @@ User Has Default Profile?: False
 User Has Default Avatar?: False
 User Followed By Developer?: True
 User Translator Type: none
+
+
+
+
+
+Quoted Status?: False
+
+Tweet Retweets: 0
+Tweet Favorites: 1
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
 -----------------------------------------------------
-Created At: 2017-09-08 20:49:55
-ID: 906258318737510400
-Text: RT @lncestPrincess: WHAT THE HELL HAPPENED TO THE YOU KNOW I HAD TO DO IT TO EM KID https://t.co/PNZAeJ0Yud
-Truncated: False
+Tweet Created At: 2017-09-13 19:50:11
+Tweet ID: 908055225189138432
+Tweet Text: RT @Shystorne: drew the lovely @serinide in her Samus cosplay ( ´ ▽ ` )ﾉ https://t.co/XNQHkbsDYZ
+Tweet Truncated?: False
 
-Source App: Twitter for iPhone
-Source App URL: http://twitter.com/download/iphone
+Tweet Source App: Twitter for Android
+Tweet Source App URL: http://twitter.com/download/android
 
 
-User ID: 322842111
-User Name: Christine Sydelko
-User Handle: @csydelko
-User Location: Los Angeles, CA
-User Description: BUSINESS: ElijahAndChristineBusiness@gmail.com
-User Website: https://t.co/UZV2GeRcOQ
+User ID: 3107673643
+User Name: REB
+User Handle: @serinide
+User Location: opinions are my own (っゝω・)っ～☆
+User Description: meme mother, bubble tea connoisseur, bird zealot, digital marketing major by day, and cosplay apprentice by night ‖ “...kid, you've got to love yourself." 🍵🌸
+User Website: https://t.co/6kNZOM0WmI
 User Protected?: False
-User Followers: 765325
-User Friends: 817
-User Listed Count: 926
-User Created At: 2011-06-23 20:48:53
-User Favorites: 35810
-User UTC Offset: -18000
-User Timezone: Central Time (US & Canada)
-User Geo Enabled?: True
-User Verified?: True
-User Tweets Count: 17264
+User Followers: 14495
+User Friends: 258
+User Listed Count: 85
+User Created At: 2015-03-25 15:36:19
+User Favorites: 59921
+User UTC Offset: -14400
+User Timezone: Eastern Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 7137
 User Language: en
 User Contributors Enabled?: False
 User Translator?: False
 User Translation Enabled?: False
 User Has Extended Profile?: True
-User Has Default Profile?: False
-User Has Default Avatar?: False
-User Followed By Developer?: True
-User Translator Type: none
------------------------------------------------------
-Created At: 2017-09-08 20:48:16
-ID: 906257905229471744
-Text: A ‘skunkworks’ team is working quietly behind the scenes to revamp Honda. @Reuters investigates… https://t.co/n7dLr9I2Sy
-Truncated: True
-
-Source App: SocialFlow
-Source App URL: http://www.socialflow.com
-
-
-User ID: 25562270
-User Name: Reuters Tech News
-User Handle: @ReutersTech
-User Location: The Internet
-User Description: Technology news from Reuters.
-User Website: http://t.co/z7IbXwr0TR
-User Protected?: False
-User Followers: 168142
-User Friends: 398
-User Listed Count: 5156
-User Created At: 2009-03-20 19:44:09
-User Favorites: 12
-User UTC Offset: -18000
-User Timezone: Quito
-User Geo Enabled?: False
-User Verified?: False
-User Tweets Count: 46711
-User Language: en
-User Contributors Enabled?: False
-User Translator?: False
-User Translation Enabled?: False
-User Has Extended Profile?: False
-User Has Default Profile?: False
-User Has Default Avatar?: False
-User Followed By Developer?: True
-User Translator Type: none
------------------------------------------------------
-Created At: 2017-09-08 20:48:06
-ID: 906257860576722944
-Text: Indulge yourself in all things chocolate in this museum in NYC https://t.co/XjHkeGXGqE
-Truncated: False
-
-Source App: Media Studio
-Source App URL: https://studio.twitter.com
-
-
-User ID: 972651
-User Name: Mashable
-User Handle: @mashable
-User Location: 
-User Description: Mashable is for superfans. We're not for the casually curious. Obsess with us.
-User Website: http://t.co/1Gm8aVACKn
-User Protected?: False
-User Followers: 9280677
-User Friends: 2835
-User Listed Count: 129209
-User Created At: 2007-03-12 01:28:01
-User Favorites: 701
-User UTC Offset: -14400
-User Timezone: Eastern Time (US & Canada)
-User Geo Enabled?: False
-User Verified?: False
-User Tweets Count: 251470
-User Language: en
-User Contributors Enabled?: False
-User Translator?: False
-User Translation Enabled?: False
-User Has Extended Profile?: False
-User Has Default Profile?: False
-User Has Default Avatar?: False
-User Followed By Developer?: True
-User Translator Type: none
------------------------------------------------------
-Created At: 2017-09-08 20:43:50
-ID: 906256789158625286
-Text: Elon Musk shares another photo of SpaceX’s future space suits https://t.co/8vNK0QzpBt https://t.co/6JuzKFdZNs
-Truncated: False
-
-Source App: Vox Media
-Source App URL: http://www.voxmedia.com
-
-
-User ID: 275686563
-User Name: The Verge
-User Handle: @verge
-User Location: New York
-User Description: https://t.co/W2SFxIXkC4 covers life in the future.
-User Website: http://t.co/W2SFxIXkC4
-User Protected?: False
-User Followers: 2170652
-User Friends: 150
-User Listed Count: 33532
-User Created At: 2011-04-01 19:54:22
-User Favorites: 1747
-User UTC Offset: -14400
-User Timezone: Eastern Time (US & Canada)
-User Geo Enabled?: True
-User Verified?: True
-User Tweets Count: 127228
-User Language: en
-User Contributors Enabled?: False
-User Translator?: False
-User Translation Enabled?: True
-User Has Extended Profile?: False
 User Has Default Profile?: False
 User Has Default Avatar?: False
 User Followed By Developer?: True
 User Translator Type: regular
+
+
+
+
+Retweeted Tweet Text: drew the lovely @serinide in her Samus cosplay ( ´ ▽ ` )ﾉ https://t.co/XNQHkbsDYZ
+Quoted Status?: False
+
+Tweet Retweets: 4
+Tweet Favorites: 0
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
 -----------------------------------------------------
-Created At: 2017-09-08 20:43:41
-ID: 906256748939530240
-Text: YAAAAS! https://t.co/CelBbujWAL
-Truncated: False
+Tweet Created At: 2017-09-13 19:50:10
+Tweet ID: 908055221405835264
+Tweet Text: It's so beautiful 😭🐽❤️ https://t.co/ao73FXz8sy
+Tweet Truncated?: False
 
-Source App: Twitter Web Client
-Source App URL: http://twitter.com
+Tweet Source App: Twitter Web Client
+Tweet Source App URL: http://twitter.com
 
 
-User ID: 20728459
-User Name: Kwame Opam
-User Handle: @kwameopam
-User Location: New York
-User Description: Digital Skills Editor, @nytimes, formerly @verge. I don't *hate* almonds, but...
-
+User ID: 11167502
+User Name: Humble Bundle
+User Handle: @humble
+User Location: San Francisco, CA
+User Description: Support charity and save on bundles of games and books. Need help? Contact @humblesupport
+User Website: https://t.co/RZLIR3duTl
 User Protected?: False
-User Followers: 7227
-User Friends: 1475
-User Listed Count: 314
-User Created At: 2009-02-12 22:49:34
-User Favorites: 13721
-User UTC Offset: -14400
-User Timezone: Eastern Time (US & Canada)
-User Geo Enabled?: True
-User Verified?: True
-User Tweets Count: 38164
-User Language: en
-User Contributors Enabled?: False
-User Translator?: False
-User Translation Enabled?: False
-User Has Extended Profile?: True
-User Has Default Profile?: True
-User Has Default Avatar?: False
-User Followed By Developer?: True
-User Translator Type: none
------------------------------------------------------
-Created At: 2017-09-08 20:41:04
-ID: 906256090592980992
-Text: Nike officially announces the LeBron 15. No official pricing or release date. Max Air x Zoom Air and next-generatio… https://t.co/VcccB7oBFx
-Truncated: True
-
-Source App: TweetDeck
-Source App URL: https://about.twitter.com/products/tweetdeck
-
-
-User ID: 7098702
-User Name: Jacques Slade
-User Handle: @kustoo
-User Location: Los Angeles, CA
-User Description: I make videos, play sports, and wear sneakers...a lot. Co-Host of NBC's @TheCycleLive. These views are my own.
-User Website: https://t.co/86U2jQekUN
-User Protected?: False
-User Followers: 33219
-User Friends: 1797
-User Listed Count: 263
-User Created At: 2007-06-27 01:08:22
-User Favorites: 27373
+User Followers: 490743
+User Friends: 365
+User Listed Count: 4553
+User Created At: 2007-12-14 16:06:10
+User Favorites: 1810
 User UTC Offset: -25200
-User Timezone: America/Los_Angeles
+User Timezone: Pacific Time (US & Canada)
 User Geo Enabled?: True
 User Verified?: True
-User Tweets Count: 47256
+User Tweets Count: 8705
 User Language: en
 User Contributors Enabled?: False
 User Translator?: False
 User Translation Enabled?: False
-User Has Extended Profile?: True
+User Has Extended Profile?: False
 User Has Default Profile?: False
 User Has Default Avatar?: False
 User Followed By Developer?: True
 User Translator Type: none
------------------------------------------------------
-Created At: 2017-09-08 20:40:06
-ID: 906255849143894016
-Text: ASRock's X299 OC Formula motherboard is ready for extreme overclocking https://t.co/ISPjuSTHe3 https://t.co/oo7SNc73ja
-Truncated: False
 
-Source App: Buffer
-Source App URL: http://bufferapp.com
+
+
+
+
+Quoted Status?: True
+Quoted Status ID: 908017388133638144
+Tweet Retweets: 5
+Tweet Favorites: 17
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:50:02
+Tweet ID: 908055187704745986
+Tweet Text: The PC Gamer Show will be live in 10 minutes! Join us while we talk about War of the Chosen, PewDiePie, and more… https://t.co/XIwFiXzm4E
+Tweet Truncated?: True
+
+Tweet Source App: Buffer
+Tweet Source App URL: http://bufferapp.com
 
 
 User ID: 16736535
@@ -522,16 +302,16 @@ User Location: San Francisco, Bath & Sydney
 User Description: The global authority on PC games. Tweets from our US, UK, and AU editors.
 User Website: https://t.co/C4FGsPK7FD
 User Protected?: False
-User Followers: 1911129
+User Followers: 1915841
 User Friends: 74
-User Listed Count: 4895
+User Listed Count: 4929
 User Created At: 2008-10-14 11:19:09
 User Favorites: 551
 User UTC Offset: -25200
 User Timezone: Pacific Time (US & Canada)
 User Geo Enabled?: False
 User Verified?: False
-User Tweets Count: 38239
+User Tweets Count: 38390
 User Language: en
 User Contributors Enabled?: False
 User Translator?: False
@@ -541,231 +321,76 @@ User Has Default Profile?: False
 User Has Default Avatar?: False
 User Followed By Developer?: True
 User Translator Type: regular
+
+
+
+
+
+Quoted Status?: False
+
+Tweet Retweets: 4
+Tweet Favorites: 6
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
 -----------------------------------------------------
-Created At: 2017-09-08 20:38:37
-ID: 906255477264314369
-Text: RT @bad_robot: We’ve started printing with discharge ink which results in a super soft feel. RT for a chance to win a shirt made at the Bad…
-Truncated: False
+Tweet Created At: 2017-09-13 19:49:42
+Tweet ID: 908055102996537344
+Tweet Text: "Darkest Hour" review: So ... we're gonna have two Dunkirk movies at the Oscars: https://t.co/IEI9IokpQ6 https://t.co/ZRiiVSFtJj
+Tweet Truncated?: False
 
-Source App: Twitter for iPhone
-Source App URL: http://twitter.com/download/iphone
-
-
-User ID: 25246881
-User Name: Sam Sheffer
-User Handle: @samsheffer
-User Location: East Village, NYC
-User Description: Independent Content Creator | Worked in tech media for 8 years between @engadget, @verge, and @mashable ///// username is @samsheffer everywhere
-User Website: https://t.co/G5saehlCoN
-User Protected?: False
-User Followers: 26993
-User Friends: 423
-User Listed Count: 742
-User Created At: 2009-03-19 05:52:27
-User Favorites: 103753
-User UTC Offset: -14400
-User Timezone: Eastern Time (US & Canada)
-User Geo Enabled?: True
-User Verified?: True
-User Tweets Count: 65699
-User Language: en
-User Contributors Enabled?: False
-User Translator?: False
-User Translation Enabled?: False
-User Has Extended Profile?: True
-User Has Default Profile?: True
-User Has Default Avatar?: False
-User Followed By Developer?: True
-User Translator Type: none
------------------------------------------------------
-Created At: 2017-09-08 20:38:37
-ID: 906255475699847169
-Text: RT @kumailn: If only we had some sort of sign that climate change was real.
-Truncated: False
-
-Source App: Twitter for iPhone
-Source App URL: http://twitter.com/download/iphone
+Tweet Source App: SocialFlow
+Tweet Source App URL: http://www.socialflow.com
 
 
-User ID: 904957843
-User Name: Garrett Prost
-User Handle: @garrett_prost
-User Location: Ann Arbor, MI
-User Description: CPR certified / umich '18
-
-User Protected?: False
-User Followers: 220
-User Friends: 225
-User Listed Count: 2
-User Created At: 2012-10-26 00:15:58
-User Favorites: 14124
-User UTC Offset: None
-
-User Geo Enabled?: True
-User Verified?: True
-User Tweets Count: 5386
-User Language: en
-User Contributors Enabled?: False
-User Translator?: False
-User Translation Enabled?: False
-User Has Extended Profile?: True
-User Has Default Profile?: True
-User Has Default Avatar?: False
-User Followed By Developer?: True
-User Translator Type: none
------------------------------------------------------
-Created At: 2017-09-08 20:37:16
-ID: 906255137747869697
-Text: if this gets 10K RTs, we will post an EXCLUSIVE pic of @matthwatson's butt
-Truncated: False
-
-Source App: Twitter for iPhone
-Source App URL: http://twitter.com/download/iphone
-
-
-User ID: 701983068
-User Name: Game Grumps
-User Handle: @GameGrumps
+User ID: 972651
+User Name: Mashable
+User Handle: @mashable
 User Location: 
-User Description: We play video games. You like video games. Cool, right?
-User Website: http://t.co/9kkRj26QiB
+User Description: Mashable is for superfans. We're not for the casually curious. Obsess with us.
+User Website: http://t.co/1Gm8aVACKn
 User Protected?: False
-User Followers: 1637368
-User Friends: 204
-User Listed Count: 1092
-User Created At: 2012-07-17 23:39:12
-User Favorites: 837
-User UTC Offset: -25200
-User Timezone: Pacific Time (US & Canada)
-User Geo Enabled?: False
-User Verified?: False
-User Tweets Count: 8731
-User Language: en
-User Contributors Enabled?: False
-User Translator?: False
-User Translation Enabled?: False
-User Has Extended Profile?: False
-User Has Default Profile?: True
-User Has Default Avatar?: False
-User Followed By Developer?: True
-User Translator Type: none
------------------------------------------------------
-Created At: 2017-09-08 20:37:02
-ID: 906255076951515136
-Text: King Krule’s new album is titled The Ooz, and it’s out next month https://t.co/dlWBcQ0tFg
-Truncated: False
-
-Source App: SocialFlow
-Source App URL: http://www.socialflow.com
-
-
-User ID: 14089195
-User Name: Pitchfork
-User Handle: @pitchfork
-User Location: Chicago/NYC
-User Description: The most trusted voice in music.
-User Website: https://t.co/vn4d8VhqAu
-User Protected?: False
-User Followers: 3446074
-User Friends: 3734
-User Listed Count: 33723
-User Created At: 2008-03-06 15:34:41
-User Favorites: 74
-User UTC Offset: -14400
-User Timezone: Eastern Time (US & Canada)
-User Geo Enabled?: True
-User Verified?: True
-User Tweets Count: 72443
-User Language: en
-User Contributors Enabled?: False
-User Translator?: False
-User Translation Enabled?: True
-User Has Extended Profile?: False
-User Has Default Profile?: False
-User Has Default Avatar?: False
-User Followed By Developer?: True
-User Translator Type: none
------------------------------------------------------
-Created At: 2017-09-08 20:36:49
-ID: 906255023163584512
-Text: RT @MrGeorgeWallace: Shout out to Florida. Y'all got enough crazy shit happenin' on the regular without havin' to deal with Irma and so for…
-Truncated: False
-
-Source App: Twitter for iPhone
-Source App URL: http://twitter.com/download/iphone
-
-
-User ID: 28644174
-User Name: B.J. Novak
-User Handle: @bjnovak
-User Location: 
-User Description: 
-
-User Protected?: False
-User Followers: 1122173
-User Friends: 875
-User Listed Count: 5223
-User Created At: 2009-04-03 20:21:41
-User Favorites: 21645
-User UTC Offset: -21600
-User Timezone: Mountain Time (US & Canada)
-User Geo Enabled?: True
-User Verified?: True
-User Tweets Count: 7695
-User Language: en
-User Contributors Enabled?: False
-User Translator?: False
-User Translation Enabled?: True
-User Has Extended Profile?: False
-User Has Default Profile?: False
-User Has Default Avatar?: False
-User Followed By Developer?: True
-User Translator Type: none
------------------------------------------------------
-Created At: 2017-09-08 20:34:51
-ID: 906254528365948928
-Text: RT @CMU_Wesley: Interested in playing or singing in a worship band? Favorite this tweet! The Wesley Band would love to have you! https://t.…
-Truncated: False
-
-Source App: Twitter Web Client
-Source App URL: http://twitter.com
-
-
-User ID: 238653225
-User Name: Sean Griffin
-User Handle: @TheSeanGriffin
-User Location: Boston, MA
-User Description: Guitar-Picker | Cubs/Bears | Hardcore Methodist | Marvel and Star Wars | Ally to #BlackLivesMatter #LGBTQ #Feminism | CMU '16 | Boston University STH|
-User Website: https://t.co/ZN728W04eJ
-User Protected?: False
-User Followers: 370
-User Friends: 475
-User Listed Count: 10
-User Created At: 2011-01-15 18:03:29
-User Favorites: 17441
+User Followers: 9297408
+User Friends: 2835
+User Listed Count: 129459
+User Created At: 2007-03-12 01:28:01
+User Favorites: 700
 User UTC Offset: -14400
 User Timezone: Eastern Time (US & Canada)
 User Geo Enabled?: False
 User Verified?: False
-User Tweets Count: 13476
+User Tweets Count: 252308
 User Language: en
 User Contributors Enabled?: False
 User Translator?: False
 User Translation Enabled?: False
-User Has Extended Profile?: True
+User Has Extended Profile?: False
 User Has Default Profile?: False
 User Has Default Avatar?: False
 User Followed By Developer?: True
 User Translator Type: none
------------------------------------------------------
-Created At: 2017-09-08 20:33:58
-ID: 906254305845403648
-Text: RT @Fanfiber: Welcome to Fanfiber @ninjasexparty ✌️
-👉 https://t.co/8yv35Gpgbv https://t.co/DJQttDNncp
-Truncated: False
 
-Source App: Twitter for iPhone
-Source App URL: http://twitter.com/download/iphone
+
+
+
+
+Quoted Status?: False
+
+Tweet Retweets: 3
+Tweet Favorites: 7
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:49:03
+Tweet ID: 908054941008146432
+Tweet Text: RT @meinbrand: Excited to finally have a shirt for two of my favorite things: cats and video games!
+
+Thanks @theyetee and love the design @…
+Tweet Truncated?: False
+
+Tweet Source App: Twitter for iPhone
+Tweet Source App URL: http://twitter.com/download/iphone
 
 
 User ID: 18643769
@@ -775,16 +400,16 @@ User Location: Los Angeles
 User Description: I am Suzy Berhow. I am very powerful and feared by many. You can find me here- https://t.co/7Xk4xT1xDK ♥️♥️♥️
 User Website: https://t.co/jsFyUjGpyF
 User Protected?: False
-User Followers: 286085
-User Friends: 272
-User Listed Count: 395
+User Followers: 286787
+User Friends: 274
+User Listed Count: 400
 User Created At: 2009-01-05 20:10:47
-User Favorites: 36825
+User Favorites: 36956
 User UTC Offset: -18000
 User Timezone: Central Time (US & Canada)
 User Geo Enabled?: False
 User Verified?: False
-User Tweets Count: 20523
+User Tweets Count: 20578
 User Language: en
 User Contributors Enabled?: False
 User Translator?: False
@@ -794,14 +419,606 @@ User Has Default Profile?: False
 User Has Default Avatar?: False
 User Followed By Developer?: True
 User Translator Type: none
------------------------------------------------------
-Created At: 2017-09-08 20:32:22
-ID: 906253903544565760
-Text: RT @JohnMarkowitz: Damn this lunch looks good https://t.co/LrPeLdzSXa
-Truncated: False
 
-Source App: Twitter for iPhone
-Source App URL: http://twitter.com/download/iphone
+
+
+
+Retweeted Tweet Text: Excited to finally have a shirt for two of my favorite things: cats and video games!
+
+Thanks @theyetee and love the… https://t.co/loYEk6AnFd
+Quoted Status?: False
+
+Tweet Retweets: 2
+Tweet Favorites: 0
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:48:07
+Tweet ID: 908054704323743745
+Tweet Text: We are going to #TGS2017! We'll be sending the dashing @goji_guy over to Japan! But... What are we doing there, I w… https://t.co/lGpuyL1e2H
+Tweet Truncated?: True
+Tweet Hashtags: #TGS2017 
+Tweet Source App: Twitter Web Client
+Tweet Source App URL: http://twitter.com
+
+
+User ID: 1861214017
+User Name: 13AM Games
+User Handle: @13amgames
+User Location: Ontario, Canada
+User Description: Developers of Runbow and Runbow Pocket, available now on New Nintendo 3DS, Xbox One, Steam, and Wii U- soon PS4! Based out of Toronto.
+User Website: https://t.co/Z6HLiUaKcQ
+User Protected?: False
+User Followers: 3444
+User Friends: 497
+User Listed Count: 93
+User Created At: 2013-09-13 17:12:17
+User Favorites: 3530
+User UTC Offset: -25200
+User Timezone: Pacific Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 6097
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+
+
+
+
+
+Quoted Status?: False
+
+Tweet Retweets: 3
+Tweet Favorites: 8
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:47:45
+Tweet ID: 908054616130060290
+Tweet Text: i'm not hungry but i wanna taste food wtf this sucks
+Tweet Truncated?: False
+
+Tweet Source App: Twitter for Android
+Tweet Source App URL: http://twitter.com/download/android
+
+
+User ID: 3107673643
+User Name: REB
+User Handle: @serinide
+User Location: opinions are my own (っゝω・)っ～☆
+User Description: meme mother, bubble tea connoisseur, bird zealot, digital marketing major by day, and cosplay apprentice by night ‖ “...kid, you've got to love yourself." 🍵🌸
+User Website: https://t.co/6kNZOM0WmI
+User Protected?: False
+User Followers: 14495
+User Friends: 258
+User Listed Count: 85
+User Created At: 2015-03-25 15:36:19
+User Favorites: 59921
+User UTC Offset: -14400
+User Timezone: Eastern Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 7137
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: regular
+
+
+
+
+
+Quoted Status?: False
+
+Tweet Retweets: 0
+Tweet Favorites: 17
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:47:41
+Tweet ID: 908054596735471616
+Tweet Text: @RubberNinja Omg Ross you are so extra
+Tweet Truncated?: False
+
+Tweet Source App: Twitter for iPhone
+Tweet Source App URL: http://twitter.com/download/iphone
+In Reply to Tweet ID: 907911375686590464
+In Reply to User ID: 21076522
+User ID: 18643769
+User Name: 🖤Mortemer🖤
+User Handle: @Mort3mer
+User Location: Los Angeles 
+User Description: I am Suzy Berhow. I am very powerful and feared by many. You can find me here- https://t.co/7Xk4xT1xDK ♥️♥️♥️
+User Website: https://t.co/jsFyUjGpyF
+User Protected?: False
+User Followers: 286787
+User Friends: 274
+User Listed Count: 400
+User Created At: 2009-01-05 20:10:47
+User Favorites: 36956
+User UTC Offset: -18000
+User Timezone: Central Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 20578
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+
+
+
+
+
+Quoted Status?: False
+
+Tweet Retweets: 0
+Tweet Favorites: 123
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:47:18
+Tweet ID: 908054502606913536
+Tweet Text: RT @JoshSabarra: TODAY! I'm live w/ the amazing @juliacunningham @SIRIUSXM @EWlive: 4:15 PT/7:15 ET. Dishing abt #EnemiesCloser on my way t…
+Tweet Truncated?: False
+Tweet Hashtags: #EnemiesCloser 
+Tweet Source App: Twitter for iPhone
+Tweet Source App URL: http://twitter.com/download/iphone
+
+
+User ID: 30010782
+User Name: Julia Cunningham
+User Handle: @juliacunningham
+User Location: Los Angeles, CA 
+User Description: Host at SiriusXM - Entertainment Weekly Radio's LA DAILY (ch 105) + SiriusXM U (ch 35)
+User Website: https://t.co/9vLPBm0PcG
+User Protected?: False
+User Followers: 11087
+User Friends: 619
+User Listed Count: 124
+User Created At: 2009-04-09 16:04:54
+User Favorites: 12832
+User UTC Offset: -14400
+User Timezone: Eastern Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 9951
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+
+
+
+
+Retweeted Tweet Text: TODAY! I'm live w/ the amazing @juliacunningham @SIRIUSXM @EWlive: 4:15 PT/7:15 ET. Dishing abt #EnemiesCloser on m… https://t.co/4QhCJvDn5k
+Quoted Status?: False
+
+Tweet Retweets: 6
+Tweet Favorites: 0
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:45:57
+Tweet ID: 908054161270251520
+Tweet Text: im readin comments on my new vid come yell at me
+Tweet Truncated?: False
+
+Tweet Source App: TweetDeck
+Tweet Source App URL: https://about.twitter.com/products/tweetdeck
+
+
+User ID: 189735576
+User Name: OMGitsfirefoxx 🌺
+User Handle: @OMGitsfirefoxx
+User Location: omgitsfirefoxx@gmail.com
+User Description: | internet™ person™, i ended up in forbes and guinness but idk wut im™ doing | https://t.co/ZcC30mzU8A https://t.co/tKEFu4QcgL https://t.co/goFQxqFlDR
+
+User Protected?: False
+User Followers: 638332
+User Friends: 633
+User Listed Count: 642
+User Created At: 2010-09-12 02:36:42
+User Favorites: 13580
+User UTC Offset: -14400
+User Timezone: Eastern Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 58178
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+
+
+
+
+
+Quoted Status?: False
+
+Tweet Retweets: 1
+Tweet Favorites: 52
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:45:34
+Tweet ID: 908054062792294400
+Tweet Text: @razzadoop I agree
+Tweet Truncated?: False
+
+Tweet Source App: Twitter for iPhone
+Tweet Source App URL: http://twitter.com/download/iphone
+In Reply to Tweet ID: 908048368936534016
+In Reply to User ID: 627856231
+User ID: 18643769
+User Name: 🖤Mortemer🖤
+User Handle: @Mort3mer
+User Location: Los Angeles 
+User Description: I am Suzy Berhow. I am very powerful and feared by many. You can find me here- https://t.co/7Xk4xT1xDK ♥️♥️♥️
+User Website: https://t.co/jsFyUjGpyF
+User Protected?: False
+User Followers: 286787
+User Friends: 274
+User Listed Count: 400
+User Created At: 2009-01-05 20:10:47
+User Favorites: 36956
+User UTC Offset: -18000
+User Timezone: Central Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 20578
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+
+
+
+
+
+Quoted Status?: False
+
+Tweet Retweets: 0
+Tweet Favorites: 51
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:45:25
+Tweet ID: 908054027841056768
+Tweet Text: Update - add @UrAvgConsumer to that list. I got you @UrAvgGF 👏🏼🎉 https://t.co/cBDm3zNJXp
+Tweet Truncated?: False
+
+Tweet Source App: Tweetbot for iΟS
+Tweet Source App URL: http://tapbots.com/tweetbot
+In Reply to Tweet ID: 908051046013865984
+In Reply to User ID: 126124275
+User ID: 126124275
+User Name: Jonathan Morrison
+User Handle: @tldtoday
+User Location: Los Angeles, CA 
+User Description: I make #crispy things.
+User Website: https://t.co/tMu8YbDjU4
+User Protected?: False
+User Followers: 392945
+User Friends: 353
+User Listed Count: 1545
+User Created At: 2010-03-24 22:32:53
+User Favorites: 4772
+User UTC Offset: -25200
+User Timezone: Pacific Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 49778
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+
+
+
+
+
+Quoted Status?: True
+Quoted Status ID: 908051046013865984
+Tweet Retweets: 2
+Tweet Favorites: 48
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:45:16
+Tweet ID: 908053989694087169
+Tweet Text: RT @SNCKPCK: rise and shine!!!!
+it's a big beautiful world out there!!! : +) https://t.co/CGGzKC8r0n
+Tweet Truncated?: False
+
+Tweet Source App: Twitter for iPhone
+Tweet Source App URL: http://twitter.com/download/iphone
+
+
+User ID: 2261888461
+User Name: cassidy
+User Handle: @cassmfought
+User Location: my pity party
+User Description: i am hungry & grumpy !!!!!
+User Website: https://t.co/dh3MhiEv3S
+User Protected?: False
+User Followers: 293
+User Friends: 338
+User Listed Count: 2
+User Created At: 2013-12-25 20:39:35
+User Favorites: 10647
+User UTC Offset: None
+
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 11452
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+
+
+
+
+Retweeted Tweet Text: rise and shine!!!!
+it's a big beautiful world out there!!! : +) https://t.co/CGGzKC8r0n
+Quoted Status?: False
+
+Tweet Retweets: 42
+Tweet Favorites: 0
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:44:16
+Tweet ID: 908053738836946944
+Tweet Text: Whatever the cause, it’s nice to have a whole day on Twitter dedicated to people talking about how much they love bodegas.
+Tweet Truncated?: False
+
+Tweet Source App: TweetDeck
+Tweet Source App URL: https://about.twitter.com/products/tweetdeck
+
+
+User ID: 90142504
+User Name: Adi Robertson
+User Handle: @thedextriarchy
+User Location: NYC
+User Description: Procrastinating on the future, senior reporter for The Verge.
+User Website: http://t.co/74dcgF1InZ
+User Protected?: False
+User Followers: 9398
+User Friends: 678
+User Listed Count: 472
+User Created At: 2009-11-15 11:09:03
+User Favorites: 2218
+User UTC Offset: -14400
+User Timezone: Eastern Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 14722
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+
+
+
+
+
+Quoted Status?: False
+
+Tweet Retweets: 0
+Tweet Favorites: 7
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:42:57
+Tweet ID: 908053407226896385
+Tweet Text: At the end of the day, CMU graduates leaders. Happy anniversary, Central Michigan University, and #FireUpChips! #cmichSOU
+Tweet Truncated?: False
+Tweet Hashtags: #FireUpChips #cmichSOU 
+Tweet Source App: Twitter Web Client
+Tweet Source App URL: http://twitter.com
+
+
+User ID: 112519741
+User Name: Central Michigan U.
+User Handle: @CMUniversity
+User Location: Mount Pleasant, MI
+User Description: The official Twitter account for Central Michigan University. Put Your Stamp on the World: http://t.co/YRUE7oOVgR
+User Website: http://t.co/7N6xAOZteO
+User Protected?: False
+User Followers: 28580
+User Friends: 18534
+User Listed Count: 223
+User Created At: 2010-02-08 20:07:37
+User Favorites: 3304
+User UTC Offset: -14400
+User Timezone: Eastern Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 7588
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+
+
+
+
+
+Quoted Status?: False
+
+Tweet Retweets: 2
+Tweet Favorites: 3
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:42:52
+Tweet ID: 908053384216715264
+Tweet Text: @PhillyD Omg the green screen footage made me laugh so hard i peed a little
+Tweet Truncated?: False
+
+Tweet Source App: Twitter for iPhone
+Tweet Source App URL: http://twitter.com/download/iphone
+In Reply to Tweet ID: 907997569715920896
+In Reply to User ID: 6351572
+User ID: 11223812
+User Name: Linz DeFranco🙊
+User Handle: @LinzDeFranco
+User Location: Los Angeles
+User Description: Georgia girl living in Los Angeles. I'm stumbling through motherhood and showing it to the Internet. I don't want your baby advice.
+User Website: https://t.co/vh7CNfp0Vl
+User Protected?: False
+User Followers: 147482
+User Friends: 373
+User Listed Count: 957
+User Created At: 2007-12-16 15:41:52
+User Favorites: 3270
+User UTC Offset: -25200
+User Timezone: Pacific Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 37134
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+
+
+
+
+
+Quoted Status?: False
+
+Tweet Retweets: 6
+Tweet Favorites: 259
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:42:29
+Tweet ID: 908053288435593216
+Tweet Text: this shows off the color better 😍💙💙💙💙💙💙💙💙 https://t.co/Ld7wmtmIHc
+Tweet Truncated?: False
+
+Tweet Source App: Twitter for iPhone
+Tweet Source App URL: http://twitter.com/download/iphone
+
+
+User ID: 189735576
+User Name: OMGitsfirefoxx 🌺
+User Handle: @OMGitsfirefoxx
+User Location: omgitsfirefoxx@gmail.com
+User Description: | internet™ person™, i ended up in forbes and guinness but idk wut im™ doing | https://t.co/ZcC30mzU8A https://t.co/tKEFu4QcgL https://t.co/goFQxqFlDR
+
+User Protected?: False
+User Followers: 638332
+User Friends: 633
+User Listed Count: 642
+User Created At: 2010-09-12 02:36:42
+User Favorites: 13580
+User UTC Offset: -14400
+User Timezone: Eastern Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 58178
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+
+
+
+
+
+Quoted Status?: False
+
+Tweet Retweets: 6
+Tweet Favorites: 130
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:42:19
+Tweet ID: 908053248824582144
+Tweet Text: RT @JohnFugelsang: I'll sign on for results-based pay for teachers the day Congress gets the same deal.
+Tweet Truncated?: False
+
+Tweet Source App: Twitter for iPhone
+Tweet Source App URL: http://twitter.com/download/iphone
 
 
 User ID: 502135911
@@ -811,16 +1028,16 @@ User Location: California
 User Description: CITIZEN........@NickOfferman on insta 🇺🇸🐷
 User Website: https://t.co/SFYJWLLpkE
 User Protected?: False
-User Followers: 1469836
+User Followers: 1470419
 User Friends: 86
-User Listed Count: 5537
+User Listed Count: 5510
 User Created At: 2012-02-24 21:04:27
-User Favorites: 76
+User Favorites: 80
 User UTC Offset: None
 
 User Geo Enabled?: False
 User Verified?: False
-User Tweets Count: 4621
+User Tweets Count: 4632
 User Language: en
 User Contributors Enabled?: False
 User Translator?: False
@@ -830,33 +1047,45 @@ User Has Default Profile?: False
 User Has Default Avatar?: False
 User Followed By Developer?: True
 User Translator Type: none
+
+
+
+
+Retweeted Tweet Text: I'll sign on for results-based pay for teachers the day Congress gets the same deal.
+Quoted Status?: False
+
+Tweet Retweets: 782
+Tweet Favorites: 0
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
 -----------------------------------------------------
-Created At: 2017-09-08 20:32:15
-ID: 906253873865744384
-Text: Catch up on the week's latest tracks → https://t.co/DGsqV1njGY https://t.co/NZTl7ipZxZ
-Truncated: False
+Tweet Created At: 2017-09-13 19:42:08
+Tweet ID: 908053198858006528
+Tweet Text: Man Raised By Parents Struggling To Adjust To Human Society https://t.co/hwKTTjBXsy https://t.co/Ypj3BW83ia
+Tweet Truncated?: False
 
-Source App: SocialFlow
-Source App URL: http://www.socialflow.com
+Tweet Source App: SocialFlow
+Tweet Source App URL: http://www.socialflow.com
 
 
-User ID: 14089195
-User Name: Pitchfork
-User Handle: @pitchfork
-User Location: Chicago/NYC
-User Description: The most trusted voice in music.
-User Website: https://t.co/vn4d8VhqAu
+User ID: 14075928
+User Name: The Onion
+User Handle: @TheOnion
+User Location: 
+User Description: America's Finest News Source.
+User Website: https://t.co/yrcmIUsgtR
 User Protected?: False
-User Followers: 3446074
-User Friends: 3734
-User Listed Count: 33723
-User Created At: 2008-03-06 15:34:41
-User Favorites: 74
-User UTC Offset: -14400
-User Timezone: Eastern Time (US & Canada)
-User Geo Enabled?: True
-User Verified?: True
-User Tweets Count: 72443
+User Followers: 10333774
+User Friends: 12
+User Listed Count: 74368
+User Created At: 2008-03-04 02:48:37
+User Favorites: 1
+User UTC Offset: -18000
+User Timezone: Central Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 54121
 User Language: en
 User Contributors Enabled?: False
 User Translator?: False
@@ -866,33 +1095,45 @@ User Has Default Profile?: False
 User Has Default Avatar?: False
 User Followed By Developer?: True
 User Translator Type: none
+
+
+
+
+
+Quoted Status?: False
+
+Tweet Retweets: 72
+Tweet Favorites: 245
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
 -----------------------------------------------------
-Created At: 2017-09-08 20:32:12
-ID: 906253860599156737
-Text: Final Fantasy XV's director wants you to know he can't find a Switch https://t.co/En4ak47Q4n https://t.co/r6eF8Y8JTK
-Truncated: False
+Tweet Created At: 2017-09-13 19:42:05
+Tweet ID: 908053188246253568
+Tweet Text: Turn any surface into an interactive display with this lamp https://t.co/cEgrelPMG2
+Tweet Truncated?: False
 
-Source App: SocialFlow
-Source App URL: http://www.socialflow.com
+Tweet Source App: Media Studio
+Tweet Source App URL: https://studio.twitter.com
 
 
-User ID: 11928542
-User Name: Kotaku
-User Handle: @Kotaku
+User ID: 972651
+User Name: Mashable
+User Handle: @mashable
 User Location: 
-User Description: The Gamer's Guide
-User Website: http://t.co/OD5OpBJUMH
+User Description: Mashable is for superfans. We're not for the casually curious. Obsess with us.
+User Website: http://t.co/1Gm8aVACKn
 User Protected?: False
-User Followers: 1989539
-User Friends: 57
-User Listed Count: 12664
-User Created At: 2008-01-07 04:09:59
-User Favorites: 40
-User UTC Offset: -21600
-User Timezone: Mountain Time (US & Canada)
-User Geo Enabled?: True
-User Verified?: True
-User Tweets Count: 61762
+User Followers: 9297408
+User Friends: 2835
+User Listed Count: 129459
+User Created At: 2007-03-12 01:28:01
+User Favorites: 700
+User UTC Offset: -14400
+User Timezone: Eastern Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 252308
 User Language: en
 User Contributors Enabled?: False
 User Translator?: False
@@ -902,4 +1143,796 @@ User Has Default Profile?: False
 User Has Default Avatar?: False
 User Followed By Developer?: True
 User Translator Type: none
+
+
+
+
+
+Quoted Status?: False
+
+Tweet Retweets: 38
+Tweet Favorites: 52
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:42:03
+Tweet ID: 908053180281495552
+Tweet Text: After over 40 years since their debut, @SparksOfficial's morbid wit is as sharp as ever https://t.co/Ak5479ypgE
+Tweet Truncated?: False
+
+Tweet Source App: SocialFlow
+Tweet Source App URL: http://www.socialflow.com
+
+
+User ID: 14089195
+User Name: Pitchfork
+User Handle: @pitchfork
+User Location: Chicago/NYC
+User Description: The most trusted voice in music.
+User Website: https://t.co/vn4d8VhqAu
+User Protected?: False
+User Followers: 3450149
+User Friends: 3733
+User Listed Count: 33823
+User Created At: 2008-03-06 15:34:41
+User Favorites: 74
+User UTC Offset: -14400
+User Timezone: Eastern Time (US & Canada)
+User Geo Enabled?: True
+User Verified?: True
+User Tweets Count: 72658
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: True
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: True
+User Translator Type: none
+
+
+
+
+
+Quoted Status?: False
+
+Tweet Retweets: 4
+Tweet Favorites: 24
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:54:34
+Tweet ID: 908056331101368321
+Tweet Text: RT @WhiteHouse: Sign your name to stand with President Trump and support action on our broken tax system today: https://t.co/WNHUkeDh4Y htt…
+Tweet Truncated?: False
+
+Tweet Source App: Twitter Web Client
+Tweet Source App URL: http://twitter.com
+
+
+User ID: 811827076055662592
+User Name: Manfowars
+User Handle: @Manfowars1
+User Location: 
+User Description: Gender Responsible Nationalism: Promote acting like ladies and gents who insist on it offline. Relax, respect, empower, communicate better and beat globalism.
+User Website: https://t.co/LLpfEMG6yv
+User Protected?: False
+User Followers: 178
+User Friends: 347
+User Listed Count: 5
+User Created At: 2016-12-22 06:53:52
+User Favorites: 4029
+User UTC Offset: -14400
+User Timezone: Eastern Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 2046
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: True
+User Has Default Avatar?: False
+User Followed By Developer?: False
+User Translator Type: none
+
+
+
+
+Retweeted Tweet Text: Sign your name to stand with President Trump and support action on our broken tax system today:… https://t.co/Bk7YpksRPr
+Quoted Status?: False
+
+Tweet Retweets: 760
+Tweet Favorites: 0
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:54:34
+Tweet ID: 908056330904186882
+Tweet Text: @YesYourHonor_ So are liberals thought. Both sides need to stop with the pettiness. First Obama was the Antichrist… https://t.co/a7imYmUOyP
+Tweet Truncated?: True
+
+Tweet Source App: Twitter for iPhone
+Tweet Source App URL: http://twitter.com/download/iphone
+In Reply to Tweet ID: 907772970587869184
+In Reply to User ID: 823377883066408960
+User ID: 763175411240935424
+User Name: Darwin Dunlap
+User Handle: @darwindunlap08
+User Location: 
+User Description: 
+
+User Protected?: False
+User Followers: 272
+User Friends: 486
+User Listed Count: 4
+User Created At: 2016-08-10 00:49:31
+User Favorites: 276
+User UTC Offset: None
+
+User Geo Enabled?: True
+User Verified?: True
+User Tweets Count: 1106
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: True
+User Has Default Avatar?: False
+User Followed By Developer?: False
+User Translator Type: none
+
+
+
+
+
+Quoted Status?: False
+
+Tweet Retweets: 0
+Tweet Favorites: 0
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:54:34
+Tweet ID: 908056330799165440
+Tweet Text: @espn @jemelehill Jemele Hill's comments were ENTIRELY APPROPRIATE. Recent rise of white supremacist hate is thanks to one person, Trump
+Tweet Truncated?: False
+
+Tweet Source App: Twitter Web Client
+Tweet Source App URL: http://twitter.com
+
+In Reply to User ID: 2557521
+User ID: 75712842
+User Name: ♡ Malcolm Jackson
+User Handle: @malcolmjackson
+User Location: City of Angels
+User Description: 
+User Website: http://t.co/Ds0xN9QLFj
+User Protected?: False
+User Followers: 47103
+User Friends: 51880
+User Listed Count: 774
+User Created At: 2009-09-20 03:45:13
+User Favorites: 2002
+User UTC Offset: -25200
+User Timezone: Pacific Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 9291
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: False
+User Translator Type: none
+
+
+
+
+
+Quoted Status?: False
+
+Tweet Retweets: 0
+Tweet Favorites: 0
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:54:34
+Tweet ID: 908056330694520839
+Tweet Text: Avanza la idea de rechazar a familiares cercanos https://t.co/Mx3WvkSFps https://t.co/D4J63Ud45O
+Tweet Truncated?: False
+
+Tweet Source App: Echobox Social
+Tweet Source App URL: https://secure.echoboxapp.com
+
+
+User ID: 41417783
+User Name: La Raza
+User Handle: @larazachicago
+User Location: Chicago, Illinois, USA
+User Description: La Raza es el periódico de la comunidad latina en Chicago. Fue fundado en 1970 y contiene todas las noticias locales e internacionales y entretenimiento.
+User Website: http://t.co/q0u2EKKhZ9
+User Protected?: False
+User Followers: 3738
+User Friends: 187
+User Listed Count: 158
+User Created At: 2009-05-20 18:32:15
+User Favorites: 45
+User UTC Offset: -18000
+User Timezone: Central Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 53503
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: False
+User Translator Type: none
+
+
+
+
+
+Quoted Status?: False
+
+Tweet Retweets: 0
+Tweet Favorites: 0
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: es
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:54:34
+Tweet ID: 908056330598043648
+Tweet Text: RT @trish_regan: Trump dines w Pelosi &amp; Schumer 2nite to talk taxes. If Dems decide to play ball, we may finally see the historic tax refor…
+Tweet Truncated?: False
+
+Tweet Source App: Twitter for iPhone
+Tweet Source App URL: http://twitter.com/download/iphone
+
+
+User ID: 219070489
+User Name: Don
+User Handle: @DealerDonnieR
+User Location: South Jersey
+User Description: Living large and loving life! #NeverHillary #DeplorablesForTrump #draintheswamp #MAGA
+
+User Protected?: False
+User Followers: 787
+User Friends: 1399
+User Listed Count: 14
+User Created At: 2010-11-23 21:11:08
+User Favorites: 3393
+User UTC Offset: -10800
+User Timezone: Atlantic Time (Canada)
+User Geo Enabled?: True
+User Verified?: True
+User Tweets Count: 7368
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: False
+User Translator Type: none
+
+
+
+
+Retweeted Tweet Text: Trump dines w Pelosi &amp; Schumer 2nite to talk taxes. If Dems decide to play ball, we may finally see the historic ta… https://t.co/CkSzugpJCR
+Quoted Status?: False
+
+Tweet Retweets: 17
+Tweet Favorites: 0
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:54:34
+Tweet ID: 908056329931182082
+Tweet Text: RT @JamilahLemieux: Rich nigga, broke nigga, Trump nigga, woke nigga...still "nigga" https://t.co/Et2Jw9ZQ7Z
+Tweet Truncated?: False
+
+Tweet Source App: Twitter for iPhone
+Tweet Source App URL: http://twitter.com/download/iphone
+
+
+User ID: 118791232
+User Name: A
+User Handle: @AshleeDionne_
+User Location: London
+User Description: Woke. 20. Sc - Ashleeleon_xo
+
+User Protected?: False
+User Followers: 821
+User Friends: 486
+User Listed Count: 7
+User Created At: 2010-03-01 19:22:22
+User Favorites: 1852
+User UTC Offset: 7200
+User Timezone: Amsterdam
+User Geo Enabled?: True
+User Verified?: True
+User Tweets Count: 35825
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: False
+User Translator Type: none
+
+
+
+
+Retweeted Tweet Text: Rich nigga, broke nigga, Trump nigga, woke nigga...still "nigga" https://t.co/Et2Jw9ZQ7Z
+Quoted Status?: True
+Quoted Status ID: 907685545802956801
+Tweet Retweets: 8334
+Tweet Favorites: 0
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:54:34
+Tweet ID: 908056329931149313
+Tweet Text: RT @ClaraJeffery: This seems like something @KatyTurNBC should NOT have saved for the book https://t.co/JpFbtKxccU
+Tweet Truncated?: False
+
+Tweet Source App: Twitter for iPad
+Tweet Source App URL: http://twitter.com/#!/download/ipad
+
+
+User ID: 574184137
+User Name: Linda Janeway
+User Handle: @Janeway12004
+User Location: 
+User Description: 
+
+User Protected?: False
+User Followers: 1868
+User Friends: 3061
+User Listed Count: 50
+User Created At: 2012-05-08 03:58:00
+User Favorites: 175555
+User UTC Offset: None
+
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 71223
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: False
+User Translator Type: none
+
+
+
+
+Retweeted Tweet Text: This seems like something @KatyTurNBC should NOT have saved for the book https://t.co/JpFbtKxccU
+Quoted Status?: False
+
+Tweet Retweets: 80
+Tweet Favorites: 0
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:54:34
+Tweet ID: 908056329419288577
+Tweet Text: RT @climategeorge: Smart reply @ivanka (who Trump thought was his daughter)...we have to break the #climatesilence and you did great! https…
+Tweet Truncated?: False
+Tweet Hashtags: #climatesilence 
+Tweet Source App: Twitter Web Client
+Tweet Source App URL: http://twitter.com
+
+
+User ID: 1694505356
+User Name: Gabriele R Schubert
+User Handle: @MoistureVapor8r
+User Location: San Diego, CA
+User Description: #Exxonknew #ClimateChangeIsReal!  #Innovate #CleanEnergy #solar #wind for #AC cooling in #GlobalWarming! Clean #Condensate #WATER from AIR   = #Sustainability!!
+User Website: http://t.co/15N9y0Ml5x
+User Protected?: False
+User Followers: 2025
+User Friends: 5001
+User Listed Count: 314
+User Created At: 2013-08-23 18:22:11
+User Favorites: 89005
+User UTC Offset: -25200
+User Timezone: Pacific Time (US & Canada)
+User Geo Enabled?: True
+User Verified?: True
+User Tweets Count: 43161
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: False
+User Translator Type: none
+
+
+
+
+Retweeted Tweet Text: Smart reply @ivanka (who Trump thought was his daughter)...we have to break the #climatesilence and you did great! https://t.co/SmEVTzM4zi
+Quoted Status?: True
+Quoted Status ID: 821286796491362304
+Tweet Retweets: 4
+Tweet Favorites: 0
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:54:34
+Tweet ID: 908056329067122689
+Tweet Text: @Crommunist Same, people try to brainwash me to go there lol, this is too much, they went there during Obama time,… https://t.co/O7vnQd7EOo
+Tweet Truncated?: True
+
+Tweet Source App: Twitter for iPad
+Tweet Source App URL: http://twitter.com/#!/download/ipad
+In Reply to Tweet ID: 908047229696409600
+In Reply to User ID: 174285518
+User ID: 1319277326
+User Name: Elo
+User Handle: @MusicalElo
+User Location: 
+User Description: Un twitter qui sert littéralement à rien...   It's mostly to find news and music, I really love too much music so...  Still useless though...
+😆
+
+User Protected?: False
+User Followers: 234
+User Friends: 809
+User Listed Count: 18
+User Created At: 2013-03-31 23:13:21
+User Favorites: 24081
+User UTC Offset: 7200
+User Timezone: Paris
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 31463
+User Language: fr
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: True
+User Has Default Avatar?: False
+User Followed By Developer?: False
+User Translator Type: none
+
+
+
+
+
+Quoted Status?: False
+
+Tweet Retweets: 0
+Tweet Favorites: 0
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:54:34
+Tweet ID: 908056329008414721
+Tweet Text: RT @funder: Trump in Russia🔥doing biz w/Putin's biz partner🔥talking about building Trump Tower Moscow🔥w/his Russian biz partners https://t.…
+Tweet Truncated?: False
+
+Tweet Source App: Twitter Lite
+Tweet Source App URL: https://mobile.twitter.com
+
+
+User ID: 993592579
+User Name: honoluludiva
+User Handle: @annhonolulu
+User Location: Honolulu,Hi.
+User Description: I love a good debate,books as well as travel and shopping. http://t.co/y1buEe6dNz http://t.co/y1buEe6dNz http://t.co/y1buEe6dNz
+
+User Protected?: False
+User Followers: 977
+User Friends: 2415
+User Listed Count: 18
+User Created At: 2012-12-06 18:26:04
+User Favorites: 7813
+User UTC Offset: 3600
+User Timezone: London
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 26976
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: False
+User Translator Type: none
+
+
+
+
+Retweeted Tweet Text: Trump in Russia🔥doing biz w/Putin's biz partner🔥talking about building Trump Tower Moscow🔥w/his Russian biz partners https://t.co/HoOISzAtq7
+Quoted Status?: False
+
+Tweet Retweets: 184
+Tweet Favorites: 0
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:54:34
+Tweet ID: 908056328957865985
+Tweet Text: RT @JesseFFerguson: SIREN.
+
+Democrat just won GOP-held Oklahoma House seat that Trump won by 9pts in 2016. https://t.co/EcscvSbHHJ
+Tweet Truncated?: False
+
+Tweet Source App: Twitter for iPhone
+Tweet Source App URL: http://twitter.com/download/iphone
+
+
+User ID: 3071938844
+User Name: Suescj5
+User Handle: @Sue07547215
+User Location: Yuba City, CA
+User Description: 
+
+User Protected?: False
+User Followers: 94
+User Friends: 179
+User Listed Count: 1
+User Created At: 2015-03-10 20:13:45
+User Favorites: 11493
+User UTC Offset: None
+
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 7155
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: True
+User Has Default Avatar?: True
+User Followed By Developer?: False
+User Translator Type: none
+
+
+
+
+Retweeted Tweet Text: SIREN.
+
+Democrat just won GOP-held Oklahoma House seat that Trump won by 9pts in 2016. https://t.co/EcscvSbHHJ
+Quoted Status?: True
+Quoted Status ID: 907773853916594182
+Tweet Retweets: 4052
+Tweet Favorites: 0
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:54:34
+Tweet ID: 908056328869879808
+Tweet Text: RT @GartrellLinda: Muslim Who LIED About Trump Supporter Attack SENTENCED Finally! 
+3 DAYS COMMUNITY SERVICE is ridiculous
+NO JUSTICE
+https…
+Tweet Truncated?: False
+
+Tweet Source App: Twitter Web Client
+Tweet Source App URL: http://twitter.com
+
+
+User ID: 826104850194653186
+User Name: 🌸Jillian 🇺🇸 💕 👢
+User Handle: @Jillibean557
+User Location: 
+User Description: I am a feisty gal and a proud American again....thanks to President Trump. I love to laugh....oh and @mitchellvii Retweeted me 😎#MAGA #NRA #TrumpTrain #2A
+
+User Protected?: False
+User Followers: 6618
+User Friends: 5370
+User Listed Count: 22
+User Created At: 2017-01-30 16:28:39
+User Favorites: 24918
+User UTC Offset: None
+
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 29638
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: True
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: False
+User Translator Type: none
+
+
+
+
+Retweeted Tweet Text: Muslim Who LIED About Trump Supporter Attack SENTENCED Finally! 
+3 DAYS COMMUNITY SERVICE is ridiculous
+NO JUSTICE
+https://t.co/7GgBFCrY7Q
+Quoted Status?: False
+
+Tweet Retweets: 44
+Tweet Favorites: 0
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:54:34
+Tweet ID: 908056328580595712
+Tweet Text: RT @danpfeiffer: Imagine her reaction if someone had falsely accused Trump of not being a citizen of this country https://t.co/y0ytWq6fNz
+Tweet Truncated?: False
+
+Tweet Source App: Plume for Android
+Tweet Source App URL: http://www.myplume.com/
+
+
+User ID: 141025186
+User Name: Val
+User Handle: @heyval2
+User Location: S. Indiana
+User Description: Single mama navigating the waters with an 8yo, pibble, and one-eyed black cat in tow. Views are my own, of course.
+
+User Protected?: False
+User Followers: 849
+User Friends: 1097
+User Listed Count: 84
+User Created At: 2010-05-07 00:33:13
+User Favorites: 14931
+User UTC Offset: -14400
+User Timezone: Indiana (East)
+User Geo Enabled?: True
+User Verified?: True
+User Tweets Count: 74041
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: False
+User Translator Type: none
+
+
+
+
+Retweeted Tweet Text: Imagine her reaction if someone had falsely accused Trump of not being a citizen of this country https://t.co/y0ytWq6fNz
+Quoted Status?: True
+Quoted Status ID: 908037545275125762
+Tweet Retweets: 1027
+Tweet Favorites: 0
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:54:34
+Tweet ID: 908056328282820608
+Tweet Text: RT @DavidCornDC: Someone should tell @SHSanders45 the "American people" did not elect Trump. He won a majority of EC votes with a minority…
+Tweet Truncated?: False
+
+Tweet Source App: Twitter for Android
+Tweet Source App URL: http://twitter.com/download/android
+
+
+User ID: 404498876
+User Name: Dajo9
+User Handle: @Dajo92
+User Location: 
+User Description: January 20, 2017 the Trump era began. 
+January 21, 2017 the #resist era began.
+
+User Protected?: False
+User Followers: 110
+User Friends: 229
+User Listed Count: 0
+User Created At: 2011-11-04 00:48:50
+User Favorites: 19932
+User UTC Offset: None
+
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 3387
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: True
+User Has Default Avatar?: False
+User Followed By Developer?: False
+User Translator Type: none
+
+
+
+
+Retweeted Tweet Text: Someone should tell @SHSanders45 the "American people" did not elect Trump. He won a majority of EC votes with a minority of total voters.
+Quoted Status?: False
+
+Tweet Retweets: 1002
+Tweet Favorites: 0
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
+-----------------------------------------------------
+Tweet Created At: 2017-09-13 19:54:34
+Tweet ID: 908056328253300738
+Tweet Text: RT @thehill: #BREAKING: White House demands ESPN fire host who called Trump a "white supremacist" https://t.co/jz8OpGlzBK https://t.co/Y0n9…
+Tweet Truncated?: False
+Tweet Hashtags: #BREAKING 
+Tweet Source App: Tweetbot for iΟS
+Tweet Source App URL: http://tapbots.com/tweetbot
+
+
+User ID: 21703632
+User Name: Not CISSP 🌈
+User Handle: @yawnbox
+User Location: Seattle, WA
+User Description: Director of @EmeraldOnion, a Tor ISP. Volunteer for @SeattlePrivacy, @SeaTechBoard, and @TA3MSeattle, Ex-@TorProject.
+User Website: https://t.co/4cBmV9geeK
+User Protected?: False
+User Followers: 2763
+User Friends: 3085
+User Listed Count: 222
+User Created At: 2009-02-23 22:48:28
+User Favorites: 9350
+User UTC Offset: -25200
+User Timezone: Pacific Time (US & Canada)
+User Geo Enabled?: False
+User Verified?: False
+User Tweets Count: 32570
+User Language: en
+User Contributors Enabled?: False
+User Translator?: False
+User Translation Enabled?: False
+User Has Extended Profile?: False
+User Has Default Profile?: False
+User Has Default Avatar?: False
+User Followed By Developer?: False
+User Translator Type: none
+
+
+
+
+Retweeted Tweet Text: #BREAKING: White House demands ESPN fire host who called Trump a "white supremacist" https://t.co/jz8OpGlzBK https://t.co/Y0n9rXDnOz
+Quoted Status?: False
+
+Tweet Retweets: 754
+Tweet Favorites: 0
+Tweet Favorited by Developer?: False
+Tweet Retweeted by Developer?: False
+Tweet Language: en
 -----------------------------------------------------

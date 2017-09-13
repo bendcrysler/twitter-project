@@ -20,31 +20,35 @@ home_timeline = api.home_timeline(count=25)
 # opening file for printing, utf-8 necessary for processing emoji
 output_file = io.open("results.txt", "w", encoding="utf-8")
 
-desired_properties = range(35)
+desired_properties = range(47)
 
 def getTweetInfo(tweet_set,indicies):
     # takes a tweet set and a set of indexes that reference tweet properties
     for tweet in tweet_set:
         for index in indicies:
             if index == 0:
-                output_file.write("Created At: " + (str(tweet.created_at)))
+                output_file.write("Tweet Created At: " + (str(tweet.created_at)))
             elif index == 1:
-                output_file.write("ID: " + tweet.id_str)
+                output_file.write("Tweet ID: " + tweet.id_str)
             elif index == 2:
-                output_file.write("Text: " + tweet.text)
+                output_file.write("Tweet Text: " + tweet.text)
             elif index == 3:
-                output_file.write("Truncated: " + str(tweet.truncated))
-            # elif index == 4:
-            #     # TODO: break entities up
-            #     output_file.write("Entities: " + str(tweet.entities))
+                output_file.write("Tweet Truncated?: " + str(tweet.truncated))
+            elif index == 4:
+                hashtags = tweet.entities['hashtags']
+                if len(hashtags) > 0:
+                    output_file.write("Tweet Hashtags: ")
+                    for tag in hashtags:
+                        output_file.write("#" + tag['text'] + " ")
+            # TODO: remaining entities(media,urls,user_mentions)
             elif index == 5:
-                output_file.write("Source App: " + tweet.source)
+                output_file.write("Tweet Source App: " + tweet.source)
             elif index == 6:
-                output_file.write("Source App URL: " + tweet.source_url)
+                output_file.write("Tweet Source App URL: " + tweet.source_url)
             elif index == 7:
                 reply_to_status_id = tweet.in_reply_to_status_id_str
                 if not reply_to_status_id == None:
-                    output_file.write("In Reply to ID: " + reply_to_status_id)
+                    output_file.write("In Reply to Tweet ID: " + reply_to_status_id)
             elif index == 8:
                 reply_to_user_id = tweet.in_reply_to_user_id_str
                 if not reply_to_user_id == None:
@@ -80,7 +84,7 @@ def getTweetInfo(tweet_set,indicies):
             elif index == 22:
                 timezone = tweet.user.time_zone
                 if not timezone == None:
-                    output_file.write("User Timezone: " + tweet.user.time_zone)
+                    output_file.write("User Timezone: " + timezone)
             elif index == 23:
                 output_file.write("User Geo Enabled?: " + str(tweet.user.geo_enabled))
             elif index == 24:
@@ -105,11 +109,55 @@ def getTweetInfo(tweet_set,indicies):
                 output_file.write("User Followed By Developer?: " + str(tweet.user.following))
             elif index == 34:
                 output_file.write("User Translator Type: " + tweet.user.translator_type)
-            # TODO: Geo, Coodinates, Place, Contributors, Retweet functionality,
-            # TODO: Quote functionality, Retweets/Favorites, Sensitivity, Language
+            elif index == 35:
+                geo = tweet.geo
+                if not geo == None:
+                    output_file.write("Tweet Geo: " + str(geo))
+            elif index == 36:
+                coord = tweet.coordinates
+                if not coord == None:
+                    output_file.write("Tweet Coordinates: " + str(coord))
+            elif index == 37:
+                place = tweet.place
+                if not place == None:
+                    output_file.write("Tweet Place: " + str(place))
+            elif index == 38:
+                contrib = tweet.contributors
+                if not contrib == None:
+                    output_file.write("Tweet Contributors: " + str(contrib))
+            elif index == 39:
+                if hasattr(tweet, 'retweeted_status'):
+                    output_file.write("Retweeted Tweet Text: " + tweet.retweeted_status.text)
+            #TODO: finish retweet functionality
+            elif index == 40:
+                output_file.write("Quoted Status?: " + str(tweet.is_quote_status))
+            elif index == 41:
+                if tweet.is_quote_status == True:
+                    output_file.write("Quoted Status ID: " + tweet.quoted_status_id_str)
+            #TODO: finish quote functionality
+            elif index == 42:
+                output_file.write("Tweet Retweets: " + str(tweet.retweet_count))
+            elif index == 43:
+                output_file.write("Tweet Favorites: " + str(tweet.favorite_count))
+            elif index == 44:
+                output_file.write("Tweet Favorited by Developer?: " + str(tweet.favorited))
+            elif index == 45:
+                output_file.write("Tweet Retweeted by Developer?: " + str(tweet.retweeted))
+            elif index == 46:
+                output_file.write("Tweet Language: " + tweet.lang)
             output_file.write("\n")
         output_file.write("-----------------------------------------------------\n")
 
+def retweetSniffer(tweet_set):
+    for tweet in tweet_set:
+        if hasattr(tweet, 'retweeted_status'):
+            print(tweet.retweeted_status.text)
+        else:
+            print("not retweet")
+
 getTweetInfo(home_timeline, desired_properties)
+getTweetInfo(trump_tweets, desired_properties)
+
+# retweetSniffer(home_timeline)
 
 output_file.close()
