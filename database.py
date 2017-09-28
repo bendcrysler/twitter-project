@@ -11,18 +11,20 @@ curs.execute("""CREATE TABLE
                     truncated integer NOT NULL,
                     source_app text NOT NULL,
                     source_app_url text NOT NULL,
-                    in_reply_to_id text,
-                    in_reply_to_user text,
+                    in_reply_to_id text REFERENCES tweets(id),
+                    in_reply_to_user text REFERENCES users(id),
                     user_id text NOT NULL REFERENCES users(id) ON UPDATE CASCADE,
-                    language text NOT NULL,
-                    hearts integer NOT NULL,
-                    retweets integer NOT NULL,
-                    place text,
-                    coordinates text,
                     geo text,
+                    coordinates text,
+                    place text,
                     contributors text,
+                    retweeted_id text REFERENCES tweets(id),
+                    quoted_id text REFERENCES tweets(id),
+                    retweets integer NOT NULL,
+                    hearts integer NOT NULL,
                     dev_heart integer NOT NULL,
-                    dev_retweet integer NOT NULL
+                    dev_retweet integer NOT NULL,
+                    language text NOT NULL
                 )""")
 
 curs.execute("""CREATE TABLE
@@ -60,6 +62,13 @@ curs.execute("""CREATE TABLE
                     tweet_id text NOT NULL REFERENCES tweets(id) ON UPDATE CASCADE,
                     hashtag text NOT NULL,
                     PRIMARY KEY(tweet_id, hashtag)
+                )""")
+
+curs.execute("""CREATE TABLE
+                IF NOT EXISTS mentions (
+                    tweet_id text NOT NULL REFERENCES tweets(id) ON UPDATE CASCADE,
+                    mention_handle text NOT NULL REFERENCES users(handle) ON UPDATE CASCADE,
+                    PRIMARY KEY (tweet_id, mention_handle)
                 )""")
 conn.commit()
 
