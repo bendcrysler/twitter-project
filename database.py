@@ -70,6 +70,39 @@ curs.execute("""CREATE TABLE
                     mention_handle text NOT NULL REFERENCES users(handle) ON UPDATE CASCADE,
                     PRIMARY KEY (tweet_id, mention_handle)
                 )""")
+
+# curs.execute("""INSERT INTO tweets (
+#                 time_posted,
+#                 id,
+#                 tweet_text,
+#                 truncated,
+#                 source_app,
+#                 source_app_url,
+#                 user_id,
+#                 retweeted_id,
+#                 retweets,
+#                 hearts,
+#                 dev_heart,
+#                 dev_retweet,
+#                 language)
+#               VALUES (
+#                 '2017-09-27 20:42:11',
+#                 '913141742299500545',
+#                 'RT @cgartenberg: https://t.co/YZ8YK9MjCE',
+#                 0,
+#                 'TweetDeck',
+#                 'https://about.twitter.com/products/tweetdeck',
+#                 '717768811005526016',
+#                 '989895654512365845',
+#                 15,
+#                 0,
+#                 0,
+#                 0,
+#                 'und');""")
+
+# curs.execute("SELECT * FROM tweets")
+# print(curs.fetchall())
+
 conn.commit()
 
 conn.close()

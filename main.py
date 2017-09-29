@@ -1,24 +1,23 @@
 import tweepy
 import io
+import sqlite3
 
-# Lines 4-13 authenticate this script with author's registered twitter application and account."""
+# Establish twitter connection
 consumer_key = 'AhqRDo5NYd2XRP3G3apZar7JC'
 consumer_secret = 'jXlQVdMOYucOBiO6iXsmgH4ApyBfsjCSw37fjmuiToAr6dCiFO'
-
 access_token = '68715828-WHXCGw6z3cLDj2EtudBqPggJWVSfCtHUkPra1SAjd'
 access_secret = 'vToagD83gYPHeGKqC9yBdUvFdcLh4KTl5ckqkmsMYX5FV'
-
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
-
 api = tweepy.API(auth)
 
-# API calls that collect tweets
+# establish SQLite connection
+conn = sqlite3.connect('twitter.db')
+curs = conn.cursor()
+
+# Collect tweets
 trump_tweets = api.search('Trump')
 home_timeline = api.home_timeline(count=25)
-
-# opening file for printing, utf-8 necessary for processing emoji
-output_file = io.open("results.txt", "w", encoding="utf-8")
 
 desired_properties = range(47)
 
@@ -27,7 +26,8 @@ def getTweetInfo(tweet_set,indicies):
     for tweet in tweet_set:
         for index in indicies:
             if index == 0:    #timestamp
-                output_file.write("Tweet Created At: " + (str(tweet.created_at)))
+                time = (str(tweet.created_at)))
+                curs.execute("""INSERT INTO tweets (time_posted)""")
             elif index == 1:  #ID
                 output_file.write("Tweet ID: " + tweet.id_str)
             elif index == 2:  #Text
