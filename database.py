@@ -5,26 +5,25 @@ curs = conn.cursor()
 
 curs.execute("""CREATE TABLE
                 IF NOT EXISTS tweets (
-                    time_posted text NOT NULL,
                     id text PRIMARY KEY NOT NULL,
                     tweet_text text NOT NULL,
-                    truncated integer NOT NULL,
+                    user_id text NOT NULL REFERENCES users(id),
+                    time_posted text NOT NULL,
+                    hearts integer NOT NULL,
+                    retweets integer NOT NULL,
+                    retweeted_tweet text REFERENCES tweets(id),
+                    quoted_tweet text REFERENCES tweets(id),
+                    in_reply_to_tweet text REFERENCES tweets(id),
+                    in_reply_to_user text REFERENCES users(id),
                     source_app text NOT NULL,
                     source_app_url text NOT NULL,
-                    in_reply_to_id text REFERENCES tweets(id),
-                    in_reply_to_user text REFERENCES users(id),
-                    user_id text NOT NULL REFERENCES users(id) ON UPDATE CASCADE,
-                    geo text,
                     coordinates text,
                     place text,
+                    language text NOT NULL,
                     contributors text,
-                    retweeted_id text REFERENCES tweets(id),
-                    quoted_id text REFERENCES tweets(id),
-                    retweets integer NOT NULL,
-                    hearts integer NOT NULL,
+                    truncated integer NOT NULL,
                     dev_heart integer NOT NULL,
-                    dev_retweet integer NOT NULL,
-                    language text NOT NULL
+                    dev_retweet integer NOT NULL
                 )""")
 
 curs.execute("""CREATE TABLE
