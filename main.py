@@ -1,95 +1,26 @@
+#!/usr/bin/python
 import tweepy
 import io
 import sqlite3
+from sqlite3 import Error
 
-# Establish twitter connection
-consumer_key = 'AhqRDo5NYd2XRP3G3apZar7JC'
-consumer_secret = 'jXlQVdMOYucOBiO6iXsmgH4ApyBfsjCSw37fjmuiToAr6dCiFO'
-access_token = '68715828-WHXCGw6z3cLDj2EtudBqPggJWVSfCtHUkPra1SAjd'
-access_secret = 'vToagD83gYPHeGKqC9yBdUvFdcLh4KTl5ckqkmsMYX5FV'
-auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-auth.set_access_token(access_token, access_secret)
-api = tweepy.API(auth)
+# function to establish twitter connection, returns api
+def authenticate_to_twitter(c_key, c_secret, a_token, a_secret):
+    auth = tweepy.OAuthHandler(c_key, c_secret)
+    auth.set_access_token(a_token, a_secret)
+    api = tweepy.API(auth)
+    return api
 
-# establish SQLite connection
-conn = sqlite3.connect(':memory:')
-if (conn):
-    print ("connection successful")
-else:
-    print ("connection failed")
-curs = conn.cursor()
+# function to establish SQLite connection, returns conn
+def create_db_connection(db_file):
+    try:
+        conn = sqlite3.connect(db_file)
+        return conn
+    except Error as e:
+        return None
 
-# create tables in DB if they don't already exist
-curs.execute("""CREATE TABLE
-                IF NOT EXISTS tweets (
-                    id text PRIMARY KEY NOT NULL,
-                    tweet_text text NOT NULL,
-                    user_id text NOT NULL REFERENCES users(id),
-                    time_posted text NOT NULL,
-                    hearts integer NOT NULL,
-                    retweets integer NOT NULL,
-                    retweeted_tweet text REFERENCES tweets(id),
-                    quoted_tweet text REFERENCES tweets(id),
-                    in_reply_to_tweet text REFERENCES tweets(id),
-                    in_reply_to_user text REFERENCES users(id),
-                    source_app text NOT NULL,
-                    source_app_url text NOT NULL,
-                    coordinates text,
-                    place text,
-                    language text NOT NULL,
-                    contributors text,
-                    truncated integer NOT NULL,
-                    dev_heart integer NOT NULL,
-                    dev_retweet integer NOT NULL
-                )""")
-curs.execute("""CREATE TABLE
-                IF NOT EXISTS users (
-                    id text PRIMARY KEY NOT NULL,
-                    name text NOT NULL,
-                    handle text NOT NULL,
-                    location text,
-                    description text NOT NULL,
-                    website text,
-                    protected integer NOT NULL,
-                    followers integer NOT NULL,
-                    following integer NOT NULL,
-                    listed integer NOT NULL,
-                    created_at text NOT NULL,
-                    favorites integer NOT NULL,
-                    utc_offset integer,
-                    timezone text,
-                    geo_enabled integer NOT NULL,
-                    verified integer NOT NULL,
-                    tweets integer NOT NULL,
-                    language text NOT NULL,
-                    contributors_enabled integer NOT NULL,
-                    translator integer NOT NULL,
-                    translation_enabled integer NOT NULL,
-                    extended_profile integer NOT NULL,
-                    default_profile integer NOT NULL,
-                    default_avatar integer NOT NULL,
-                    dev_follow integer NOT NULL,
-                    translator_type text
-                    )""")
-curs.execute("""CREATE TABLE
-                IF NOT EXISTS hashtags (
-                    tweet_id text NOT NULL REFERENCES tweets(id) ON UPDATE CASCADE,
-                    hashtag text NOT NULL,
-                    PRIMARY KEY(tweet_id, hashtag)
-                )""")
-curs.execute("""CREATE TABLE
-                IF NOT EXISTS mentions (
-                    tweet_id text NOT NULL REFERENCES tweets(id) ON UPDATE CASCADE,
-                    mention_handle text NOT NULL REFERENCES users(handle) ON UPDATE CASCADE,
-                    PRIMARY KEY (tweet_id, mention_handle)
-                )""")
-
-# Collect tweets
-trump_tweets = api.search('Trump')
-home_timeline = api.home_timeline(count=25)
-
-def getTweetInfo(tweet_set):
-    # inputs a tweet set into DB
+# function that inputs a tweet set into DB, returns none
+def insert_tweet_set(tweet_set, cursor):
     for tweet in tweet_set:
         # set variables to be inserted into DB
         ID = tweet.id_str
@@ -217,12 +148,117 @@ def getTweetInfo(tweet_set):
 
         variables2 = {'1':ID, '2':u_name, '3':u_handle, '4':u_location, '5':u_description, '6':u_website, '7':u_protected, '8':u_followers, '9':u_following, '10':u_listed, '11':u_created_at, '12':u_favorites, '13':u_utc_offset, '14':u_timezone, '15':u_geo_enabled, '16':u_verified, '17':u_tweets, '18':u_language, '19':u_contributors_enabled, '20':u_is_translator, '21':u_translation_enabled, '22':u_extended_profile, '23':u_default_profile, '24':u_default_avatar, '25':u_dev_follow, '26':u_translator_type}
 
-        curs.execute(query1, variables1)
-        curs.execute(query2, variables2)
+        try:
+            cursor.execute(query1, variables1)
+        except Error as e:
+            e_string = str(e)
+            if (e_string[:24] == "UNIQUE constraint failed"):
+                pass
+            else:
+                print(e)
+        try:
+            cursor.execute(query2, variables2)
+        except Error as e:
+            e_string = str(e)
+            if (e_string[:24] == "UNIQUE constraint failed"):
+                pass
+            else:
+                print(e)
 
-# insert tweet and user sets into DB
-getTweetInfo(home_timeline)
-getTweetInfo(trump_tweets)
+    return None
+
+# functiont that counts rows in a given table
+def count_rows(table, cursor):
+    curs.execute("SELECT count(*) FROM :table" , {'table':table})
+    count = cursor.fetchone()
+    print("\n:table collected : " + str(count[0]) + "\n", {'table':table})
+
+# connect to twitter, database, and output file
+api = authenticate_to_twitter('AhqRDo5NYd2XRP3G3apZar7JC', 'jXlQVdMOYucOBiO6iXsmgH4ApyBfsjCSw37fjmuiToAr6dCiFO', '68715828-WHXCGw6z3cLDj2EtudBqPggJWVSfCtHUkPra1SAjd', 'vToagD83gYPHeGKqC9yBdUvFdcLh4KTl5ckqkmsMYX5FV')
+conn = create_db_connection('twitter.db')
+curs = conn.cursor()
+output_file = io.open("results.txt", "w", encoding="utf-8")
+
+# create tables in DB if they don't already exist
+curs.execute("""CREATE TABLE
+                IF NOT EXISTS tweets (
+                    id text PRIMARY KEY NOT NULL,
+                    tweet_text text NOT NULL,
+                    user_id text NOT NULL REFERENCES users(id),
+                    time_posted text NOT NULL,
+                    hearts integer NOT NULL,
+                    retweets integer NOT NULL,
+                    retweeted_tweet text REFERENCES tweets(id),
+                    quoted_tweet text REFERENCES tweets(id),
+                    in_reply_to_tweet text REFERENCES tweets(id),
+                    in_reply_to_user text REFERENCES users(id),
+                    source_app text NOT NULL,
+                    source_app_url text NOT NULL,
+                    coordinates text,
+                    place text,
+                    language text NOT NULL,
+                    contributors text,
+                    truncated integer NOT NULL,
+                    dev_heart integer NOT NULL,
+                    dev_retweet integer NOT NULL
+                )""")
+curs.execute("""CREATE TABLE
+                IF NOT EXISTS users (
+                    id text PRIMARY KEY NOT NULL,
+                    name text NOT NULL,
+                    handle text NOT NULL,
+                    location text,
+                    description text NOT NULL,
+                    website text,
+                    protected integer NOT NULL,
+                    followers integer NOT NULL,
+                    following integer NOT NULL,
+                    listed integer NOT NULL,
+                    created_at text NOT NULL,
+                    favorites integer NOT NULL,
+                    utc_offset integer,
+                    timezone text,
+                    geo_enabled integer NOT NULL,
+                    verified integer NOT NULL,
+                    tweets integer NOT NULL,
+                    language text NOT NULL,
+                    contributors_enabled integer NOT NULL,
+                    translator integer NOT NULL,
+                    translation_enabled integer NOT NULL,
+                    extended_profile integer NOT NULL,
+                    default_profile integer NOT NULL,
+                    default_avatar integer NOT NULL,
+                    dev_follow integer NOT NULL,
+                    translator_type text
+                    )""")
+curs.execute("""CREATE TABLE
+                IF NOT EXISTS hashtags (
+                    tweet_id text NOT NULL REFERENCES tweets(id),
+                    hashtag text NOT NULL,
+                    PRIMARY KEY(tweet_id, hashtag)
+                )""")
+curs.execute("""CREATE TABLE
+                IF NOT EXISTS mentions (
+                    tweet_id text NOT NULL REFERENCES tweets(id),
+                    mention_handle text NOT NULL REFERENCES users(handle),
+                    PRIMARY KEY (tweet_id, mention_handle)
+                )""")
+
+# define tweet sets
+trump_tweets = api.search('Trump')
+home_timeline = api.home_timeline(count=25)
+
+# insert tweet sets into DB
+insert_tweet_set(home_timeline, curs)
+insert_tweet_set(trump_tweets, curs)
+
+# select all tweets
+curs.execute("SELECT count(*) FROM tweets")
+count = curs.fetchone()
+print("tweets collected: " + str(count[0]) + "\n")
+
+# get count of users
+count_rows("users", curs)
 
 # commit to DB and close connection
 conn.commit()
