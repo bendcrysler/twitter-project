@@ -44,6 +44,8 @@ def insert_tweet_set(tweet_set, cursor):
         source_app = tweet.source
         source_app_url = tweet.source_url
         language = tweet.lang
+        hashtags = tweet.entities['hashtags']
+        mentions = tweet.entities['user_mentions']
         if hasattr(tweet, 'retweeted_status'):
             retweeted_tweet = tweet.retweeted_status.id_str
         else:
@@ -144,9 +146,12 @@ def insert_tweet_set(tweet_set, cursor):
 
         query2 = "INSERT INTO users VALUES(:1, :2, :3, :4, :5, :6, :7, :8, :9, :10, :11, :12, :13, :14, :15, :16, :17, :18, :19, :20, :21, :22, :23, :24, :25, :26)"
 
+        query3 = "INSERT INTO hashtags VALUES(:1, :2)"
+        query4 = "INSERT INTO mentions VALUES(:1, :2)"
+
         variables1 = {'1':ID, '2':text, '3':u_id, '4':time_posted, '5':hearts, '6':retweets, '7':retweeted_tweet, '8':quoted_tweet, '9': in_reply_to_tweet, '10':in_reply_to_user, '11':source_app, '12':source_app_url, '13':coordinates, '14':place, '15':language, '16':contributors, '17':truncated, '18':dev_heart, '19':dev_retweet}
 
-        variables2 = {'1':ID, '2':u_name, '3':u_handle, '4':u_location, '5':u_description, '6':u_website, '7':u_protected, '8':u_followers, '9':u_following, '10':u_listed, '11':u_created_at, '12':u_favorites, '13':u_utc_offset, '14':u_timezone, '15':u_geo_enabled, '16':u_verified, '17':u_tweets, '18':u_language, '19':u_contributors_enabled, '20':u_is_translator, '21':u_translation_enabled, '22':u_extended_profile, '23':u_default_profile, '24':u_default_avatar, '25':u_dev_follow, '26':u_translator_type}
+        variables2 = {'1':u_id, '2':u_name, '3':u_handle, '4':u_location, '5':u_description, '6':u_website, '7':u_protected, '8':u_followers, '9':u_following, '10':u_listed, '11':u_created_at, '12':u_favorites, '13':u_utc_offset, '14':u_timezone, '15':u_geo_enabled, '16':u_verified, '17':u_tweets, '18':u_language, '19':u_contributors_enabled, '20':u_is_translator, '21':u_translation_enabled, '22':u_extended_profile, '23':u_default_profile, '24':u_default_avatar, '25':u_dev_follow, '26':u_translator_type}
 
         try:
             cursor.execute(query1, variables1)
@@ -164,14 +169,28 @@ def insert_tweet_set(tweet_set, cursor):
                 pass
             else:
                 print(e)
+        for tag in hashtags:
+            hash_text = tag['text']
+            try:
+                cursor.execute(query3, {'1':ID, '2':hash_text})
+            except Error as e:
+                e_string = str(e)
+                if (e_string[:24] == "UNIQUE constraint failed"):
+                    pass
+                else:
+                    print(e)
+        for name in mentions:
+            mention_text = name['screen_name']
+            try:
+                cursor.execute(query4, {'1':ID, '2':mention_text})
+            except Error as e:
+                e_string = str(e)
+                if (e_string[:24] == "UNIQUE constraint failed"):
+                    pass
+                else:
+                    print(e)
 
     return None
-
-# functiont that counts rows in a given table
-def count_rows(table, cursor):
-    curs.execute("SELECT count(*) FROM :table" , {'table':table})
-    count = cursor.fetchone()
-    print("\n:table collected : " + str(count[0]) + "\n", {'table':table})
 
 # connect to twitter, database, and output file
 api = authenticate_to_twitter('AhqRDo5NYd2XRP3G3apZar7JC', 'jXlQVdMOYucOBiO6iXsmgH4ApyBfsjCSw37fjmuiToAr6dCiFO', '68715828-WHXCGw6z3cLDj2EtudBqPggJWVSfCtHUkPra1SAjd', 'vToagD83gYPHeGKqC9yBdUvFdcLh4KTl5ckqkmsMYX5FV')
@@ -253,12 +272,10 @@ insert_tweet_set(home_timeline, curs)
 insert_tweet_set(trump_tweets, curs)
 
 # select all tweets
-curs.execute("SELECT count(*) FROM tweets")
-count = curs.fetchone()
-print("tweets collected: " + str(count[0]) + "\n")
-
-# get count of users
-count_rows("users", curs)
+curs.execute("SELECT * FROM mentions")
+results = curs.fetchall()
+for row in results:
+    output_file.write(str(row) + "\n")
 
 # commit to DB and close connection
 conn.commit()
