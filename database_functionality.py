@@ -1,13 +1,14 @@
 import sqlite3
+import tweepy
 from sqlite3 import Error
 
+# functions to establish connection, create tables, and insert data
 def create_db_connection(db_file):
     try:
         conn = sqlite3.connect(db_file)
         return conn
     except Error as e:
         return None
-
 def create_tables(cursor):
     try:
         cursor.execute("""CREATE TABLE
@@ -75,7 +76,6 @@ def create_tables(cursor):
                         )""")
     except Error as e:
         print(e)
-
 def insert_tweet(tweet, cursor, api):
     # set variables to be inserted into DB
     ID = tweet.id_str
@@ -150,7 +150,6 @@ def insert_tweet(tweet, cursor, api):
     insert_mentions(ID, mentions, cursor, api)
 
     return None
-
 def insert_user(user, cursor):
     u_id = user.id_str
     u_name = user.name
@@ -235,7 +234,6 @@ def insert_user(user, cursor):
         else:
             print(e)
     return None
-
 def insert_hashtags(tweet_ID, hashtags, cursor):
     query = "INSERT INTO hashtags VALUES(:1, :2)"
     for tag in hashtags:
@@ -249,23 +247,39 @@ def insert_hashtags(tweet_ID, hashtags, cursor):
             else:
                 print(e)
     return None
-
 def insert_mentions(tweet_ID, mentions, cursor, api):
     query = "INSERT INTO mentions VALUES(:1, :2)"
     for name in mentions:
         mention_text = name['screen_name']
-        mentioned_user = api.get_user(mention_text)
-        insert_user(mentioned_user, cursor)
+        mentioned_user = None
+
         try:
-            cursor.execute(query, {'1':tweet_ID, '2':mention_text})
-        except Error as e:
-            e_string = str(e)
-            if (e_string[:24] == "UNIQUE constraint failed"):
-                pass
+            mentioned_user = api.get_user(mention_text)
+        except tweepy.TweepError as e:
+            if (e.api_code == 63):
+                print("Hit tweepy error 63 while attempting to add @" + str(mention_text) + ". User has been suspended.")
+            elif (e.api_code == None):
+                print("tweepy rate limit exceeded, wait 15 minutes then try again.")
             else:
-                print(e)
+                print("Hit tweepy error code " + str(e.api_code))
+
+        # user doesn't get set if error above, so don't try to add it
+        if (mentioned_user == None):
+            pass
+        else: # if no error above, insert user into DB and populate mentions table
+            insert_user(mentioned_user, cursor)
+            try:
+                cursor.execute(query, {'1':tweet_ID, '2':mention_text})
+            except Error as e:
+                e_string = str(e)
+                if (e_string[:24] == "UNIQUE constraint failed"):
+                    pass
+                else:
+                    print(e)
+
     return None
 
+# function for checking totals
 def show_totals(cursor):
     cursor.execute("SELECT COUNT(*) FROM tweets")
     result = cursor.fetchone()
@@ -279,3 +293,6 @@ def show_totals(cursor):
     cursor.execute("SELECT COUNT(*) FROM mentions")
     result = cursor.fetchone()
     print("Total mentions collected: " + str(result[0]))
+
+# analytical functions
+# TODO: write all analytical functions/queries
