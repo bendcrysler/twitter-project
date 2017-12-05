@@ -1,5 +1,6 @@
 import sqlite3
 import tweepy
+import random
 from sqlite3 import Error
 
 # functions to establish connection, create tables, and insert data
@@ -295,4 +296,80 @@ def show_totals(cursor):
     print("Total mentions collected: " + str(result[0]))
 
 # analytical functions
-# TODO: write all analytical functions/queries
+def most_followed_user(cursor):
+    cursor.execute("SELECT MAX(followers) FROM users")
+    result = cursor.fetchone()
+    max_followers = int(result[0])
+    query = "SELECT handle FROM users WHERE followers = :1"
+    cursor.execute(query, {'1':max_followers,})
+    result = cursor.fetchone()
+    print("Most followed user collected: @" + str(result[0]) + " - " + str(max_followers) + " followers")
+
+def most_favorited_tweet(cursor):
+    cursor.execute("SELECT MAX(hearts) from tweets")
+    result = cursor.fetchone()
+    max_favorites = int(result[0])
+    query = "SELECT tweet_text, user_id FROM tweets WHERE hearts = :1"
+    cursor.execute(query, {'1':max_favorites,})
+    result = cursor.fetchone()
+    mf_tweet_text = str(result[0])
+    mf_tweet_uid = str(result[1])
+    query = "SELECT handle FROM users WHERE id = :1"
+    cursor.execute(query, {'1':mf_tweet_uid,})
+    result = cursor.fetchone()
+    mf_tweet_uhandle = str(result[0])
+    print("Most favorited tweet collected: " + mf_tweet_text + " - " + str(max_favorites) + " favorites, tweeted by @" + mf_tweet_uhandle)
+
+def most_retweeted_tweet(cursor):
+    cursor.execute("SELECT MAX(retweets) from tweets")
+    result = cursor.fetchone()
+    max_retweets = int(result[0])
+    query = "SELECT tweet_text, user_id FROM tweets WHERE retweets = :1"
+    cursor.execute(query, {'1':max_retweets,})
+    result = cursor.fetchone()
+    mrt_tweet_text = str(result[0])
+    mrt_tweet_uid = str(result[1])
+    query = "SELECT handle FROM users WHERE id = :1"
+    cursor.execute(query, {'1':mrt_tweet_uid,})
+    result = cursor.fetchone()
+    mrt_tweet_uhandle = str(result[0])
+    print("Most retweeted tweet collected: " + mrt_tweet_text + " - " + str(max_retweets) + " retweets, tweeted by @" + mrt_tweet_uhandle)
+
+def best_time_to_tweet_nonzero(cursor):
+    hours = [[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]]
+    averages = []
+
+    cursor.execute("SELECT time_posted, hearts from tweets")
+    for row in cursor:
+        result = str(row)
+        hearts = int(row[1])
+        time = int(result[13:15])
+        hour = hours[time]
+        if hearts > 5:
+            hour.append(hearts)
+    for item in hours:
+        average_hearts = sum(item)/len(item)
+        averages.append(average_hearts)
+    best_hour = averages.index(max(averages))
+    print("Best hour (00:00 - 23:00) of the day to tweet: " + str(best_hour) + ":00")
+
+def benefit_of_hashtags(cursor):
+    tweets_with_hashtags = []
+
+    cursor.execute("SELECT avg(hearts) FROM tweets ")
+    result = cursor.fetchone()
+    overall_avg = float(result[0])
+    cursor.execute("SELECT avg(hearts) FROM tweets INNER JOIN hashtags on hashtags.tweet_id = tweets.id")
+    result = cursor.fetchone()
+    hashtag_tweets_avg = float(result[0])
+    difference = hashtag_tweets_avg - overall_avg
+    difference = round(difference,1)
+
+    if (difference > 0):
+        difference = str(difference)
+        print("Tweets with hashtags average " + difference + " MORE favorites than tweets without hashtags")
+    else:
+        difference = str(abs(difference))
+        print("Tweets with hashtags average " + difference + " LESS favorites than tweets without hashtags")
+
+#TODO: check brothers' tweet popularity
